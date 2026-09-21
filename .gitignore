@@ -1,0 +1,65 @@
+# ============================================================
+# MindPalace · 记忆宫殿
+# knowledge/ 与 problems/ 里的 .md 是仓库内容，全部保留
+# ============================================================
+
+# ---------- 密钥与本地配置 ----------
+.env
+.env.local
+.env.*.local
+# 模板文件要提交，方便别人照着填
+!.env.example
+
+# ---------- 程序生成的本地状态 ----------
+# 文件指纹缓存：记录每个笔记的 mtime/size，只对生成它的那台机器有意义
+data/signatures.json
+# 运行时数据库：含逐条笔记的分析状态与时间戳，属于本机数据
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+# data/graph.json 是示例自带的图书馆图谱（书脊、书柱、银丝），保留在仓库里，
+# 这样别人 clone 下来就有完整的示例可逛。不想提交就取消下一行注释。
+# data/graph.json
+
+# ---------- 程序运行时的缓存与日志 ----------
+cache/
+*.log
+logs/
+
+# ---------- 操作系统杂项 ----------
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ---------- 编辑器 / IDE ----------
+.idea/
+.vscode/
+.history/
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+*.tmp
+*.temp
+
+# ---------- 依赖与构建缓存（之后若把源码放进本仓库） ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+
+# ---------- 打包产物 ----------
+# 如果 MindPalace.exe 走 GitHub Releases 分发（推荐，二进制不进 git），
+# 取消下面这行的注释；如果希望 exe 直接随仓库分发，就保持注释状态。
+# MindPalace.exe

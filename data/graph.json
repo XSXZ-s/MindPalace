@@ -1,0 +1,6708 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "type": "knowledge",
+      "title": "伪装",
+      "tags": [
+        "人与行为",
+        "伪装与身份",
+        "表演"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "伪装不是换一张脸，是换一个人对世界的反应方式。",
+      "rel_path": "knowledge/人与行为/伪装与身份/伪装.md",
+      "dir_path": "人与行为/伪装与身份",
+      "levels": [
+        "人与行为",
+        "人与行为/伪装与身份"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 2,
+      "type": "knowledge",
+      "title": "口音与来历",
+      "tags": [
+        "人与行为",
+        "伪装与身份",
+        "语言"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人能学会另一种口音，但很难学会另一种人说第一句话时的顺序。",
+      "rel_path": "knowledge/人与行为/伪装与身份/口音与来历.md",
+      "dir_path": "人与行为/伪装与身份",
+      "levels": [
+        "人与行为",
+        "人与行为/伪装与身份"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 3,
+      "type": "knowledge",
+      "title": "阶层与职业特征",
+      "tags": [
+        "人与行为",
+        "伪装与身份",
+        "社会"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人属于哪儿、靠什么活着，写在他的袖口、鞋跟和说话的顺序里。",
+      "rel_path": "knowledge/人与行为/伪装与身份/阶层与职业特征.md",
+      "dir_path": "人与行为/伪装与身份",
+      "levels": [
+        "人与行为",
+        "人与行为/伪装与身份"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 4,
+      "type": "knowledge",
+      "title": "复仇",
+      "tags": [
+        "人与行为",
+        "动机",
+        "复仇"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "复仇的人不图好处，只图时间。所以他能等很多年，也因此最容易留下痕迹。",
+      "rel_path": "knowledge/人与行为/动机/复仇.md",
+      "dir_path": "人与行为/动机",
+      "levels": [
+        "人与行为",
+        "人与行为/动机"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 5,
+      "type": "knowledge",
+      "title": "被要挟的人",
+      "tags": [
+        "人与行为",
+        "动机",
+        "恐惧"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人被人捏着把柄的时候，会做出他平时绝不做的事——包括杀人。",
+      "rel_path": "knowledge/人与行为/动机/被要挟的人.md",
+      "dir_path": "人与行为/动机",
+      "levels": [
+        "人与行为",
+        "人与行为/动机"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 6,
+      "type": "knowledge",
+      "title": "贪婪与遗产",
+      "tags": [
+        "人与行为",
+        "动机",
+        "财产"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人等着另一个人死，这件事本身不犯法。但它会改变他做的每一件小事。",
+      "rel_path": "knowledge/人与行为/动机/贪婪与遗产.md",
+      "dir_path": "人与行为/动机",
+      "levels": [
+        "人与行为",
+        "人与行为/动机"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 7,
+      "type": "knowledge",
+      "title": "传闻",
+      "tags": [
+        "人与行为",
+        "名声与舆论",
+        "集体"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "传闻不需要是真的才起作用。它只要被足够多的人讲过，就已经在现场留下痕迹了。",
+      "rel_path": "knowledge/人与行为/名声与舆论/传闻.md",
+      "dir_path": "人与行为/名声与舆论",
+      "levels": [
+        "人与行为",
+        "人与行为/名声与舆论"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 8,
+      "type": "knowledge",
+      "title": "名声",
+      "tags": [
+        "人与行为",
+        "名声与舆论",
+        "社会"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人有了名声之后，别人对他的判断就不再依赖证据了——依赖的是那个名声。",
+      "rel_path": "knowledge/人与行为/名声与舆论/名声.md",
+      "dir_path": "人与行为/名声与舆论",
+      "levels": [
+        "人与行为",
+        "人与行为/名声与舆论"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 9,
+      "type": "knowledge",
+      "title": "舆论如何定罪",
+      "tags": [
+        "人与行为",
+        "名声与舆论",
+        "社会"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人被报纸写成一个角色之后，法庭要做的就不再是判断他有没有罪，而是确认那个角色。",
+      "rel_path": "knowledge/人与行为/名声与舆论/舆论如何定罪.md",
+      "dir_path": "人与行为/名声与舆论",
+      "levels": [
+        "人与行为",
+        "人与行为/名声与舆论"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 10,
+      "type": "knowledge",
+      "title": "人群",
+      "tags": [
+        "人与行为",
+        "群体与结社",
+        "集体"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "人在人群里会变。他会做一个人时不做的事，也会对一个人时不会信的话点头。",
+      "rel_path": "knowledge/人与行为/群体与结社/人群.md",
+      "dir_path": "人与行为/群体与结社",
+      "levels": [
+        "人与行为",
+        "人与行为/群体与结社"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 11,
+      "type": "knowledge",
+      "title": "秘密结社",
+      "tags": [
+        "人与行为",
+        "群体与结社",
+        "组织"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人不可怕。一群互相保证「我们是一伙的」的人，才难对付。",
+      "rel_path": "knowledge/人与行为/群体与结社/秘密结社.md",
+      "dir_path": "人与行为/群体与结社",
+      "levels": [
+        "人与行为",
+        "人与行为/群体与结社"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 12,
+      "type": "knowledge",
+      "title": "恐惧",
+      "tags": [
+        "人与行为",
+        "读人",
+        "情绪"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有人不需要动手就能杀人。他只要让对方相信，某样东西会来找他。",
+      "rel_path": "knowledge/人与行为/读人/恐惧.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 13,
+      "type": "knowledge",
+      "title": "撒谎的人",
+      "tags": [
+        "人与行为",
+        "读人",
+        "谎言"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "谎言的破口几乎从不在脸上，而在他自己编出来的那些细节里。",
+      "rel_path": "knowledge/人与行为/读人/撒谎的人.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 14,
+      "type": "knowledge",
+      "title": "表情与姿态",
+      "tags": [
+        "人与行为",
+        "读人",
+        "身体"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "脸会演，身体不会。一个人管得住表情，管不住自己坐下的方式和手的落点。",
+      "rel_path": "knowledge/人与行为/读人/表情与姿态.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 40,
+      "type": "knowledge",
+      "title": "奥卡姆剃刀",
+      "tags": [
+        "推理方法",
+        "推理",
+        "假设"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "两个解释都能说通的时候，先选那个需要额外假设更少的。",
+      "rel_path": "knowledge/推理方法/推理的刀/奥卡姆剃刀.md",
+      "dir_path": "推理方法/推理的刀",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的刀"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 41,
+      "type": "knowledge",
+      "title": "排除法",
+      "tags": [
+        "推理方法",
+        "推理",
+        "排除"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "「排除掉所有不可能的之后，剩下的那个，哪怕再不可能，也就是真相。」",
+      "rel_path": "knowledge/推理方法/推理的刀/排除法.md",
+      "dir_path": "推理方法/推理的刀",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的刀"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 42,
+      "type": "knowledge",
+      "title": "溯因推理",
+      "tags": [
+        "推理方法",
+        "推理",
+        "假设"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "面对几个都能解释现场的原因，挑出最经得起追问的那个。它不是证明，是最佳解释。",
+      "rel_path": "knowledge/推理方法/推理的刀/溯因推理.md",
+      "dir_path": "推理方法/推理的刀",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的刀"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 43,
+      "type": "knowledge",
+      "title": "演绎法",
+      "tags": [
+        "推理方法",
+        "推理",
+        "反向推理"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "从一个结果出发，一步一步倒推回它的原因。功夫全在倒推，不在正推。",
+      "rel_path": "knowledge/推理方法/推理的刀/演绎法.md",
+      "dir_path": "推理方法/推理的刀",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的刀"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 44,
+      "type": "knowledge",
+      "title": "先入之见",
+      "tags": [
+        "推理方法",
+        "推理",
+        "失败"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个假设一旦在心里站住，后面所有的观察都会替它说话。这是最贵的错，因为它不报错。",
+      "rel_path": "knowledge/推理方法/推理的边界/先入之见.md",
+      "dir_path": "推理方法/推理的边界",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的边界"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 45,
+      "type": "knowledge",
+      "title": "我错在哪儿",
+      "tags": [
+        "推理方法",
+        "推理",
+        "失败"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人对自己的失败怎么记账，决定了他还会不会再犯一遍。",
+      "rel_path": "knowledge/推理方法/推理的边界/我错在哪儿.md",
+      "dir_path": "推理方法/推理的边界",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的边界"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 46,
+      "type": "knowledge",
+      "title": "证据与结论之间",
+      "tags": [
+        "推理方法",
+        "推理",
+        "边界"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "证据只负责把范围缩小。从剩下的那个到「就是他」，中间那一步是判断，而判断没有保证。",
+      "rel_path": "knowledge/推理方法/推理的边界/证据与结论之间.md",
+      "dir_path": "推理方法/推理的边界",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的边界"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 47,
+      "type": "knowledge",
+      "title": "什么时候该收手",
+      "tags": [
+        "推理方法",
+        "提问",
+        "边界"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "查清真相和把人送进法庭是两件事。这两件事之间的那条线，得自己划，而且得提前划。",
+      "rel_path": "knowledge/推理方法/提问的方式/什么时候该收手.md",
+      "dir_path": "推理方法/提问的方式",
+      "levels": [
+        "推理方法",
+        "推理方法/提问的方式"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 48,
+      "type": "knowledge",
+      "title": "沉默的用法",
+      "tags": [
+        "推理方法",
+        "提问",
+        "谈话"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "话最多的人得到的最少。留一段空白，对方会自己走进去。",
+      "rel_path": "knowledge/推理方法/提问的方式/沉默的用法.md",
+      "dir_path": "推理方法/提问的方式",
+      "levels": [
+        "推理方法",
+        "推理方法/提问的方式"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 49,
+      "type": "knowledge",
+      "title": "问对问题",
+      "tags": [
+        "推理方法",
+        "提问",
+        "谈话"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "问话的作用不是掏真相，是把范围缩小。所以问题的形状比语气重要得多。",
+      "rel_path": "knowledge/推理方法/提问的方式/问对问题.md",
+      "dir_path": "推理方法/提问的方式",
+      "levels": [
+        "推理方法",
+        "推理方法/提问的方式"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 50,
+      "type": "knowledge",
+      "title": "声音里的信息",
+      "tags": [
+        "推理方法",
+        "观察",
+        "听觉"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "眼睛能一次看一样东西，耳朵一直在听全部。声音的价值在于它从不关闭。",
+      "rel_path": "knowledge/推理方法/看见与观察/声音里的信息.md",
+      "dir_path": "推理方法/看见与观察",
+      "levels": [
+        "推理方法",
+        "推理方法/看见与观察"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 51,
+      "type": "knowledge",
+      "title": "注意力与选择性观察",
+      "tags": [
+        "推理方法",
+        "观察",
+        "注意力"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "注意力是有限的。你选择看什么，就同时选择了看不见什么。",
+      "rel_path": "knowledge/推理方法/看见与观察/注意力与选择性观察.md",
+      "dir_path": "推理方法/看见与观察",
+      "levels": [
+        "推理方法",
+        "推理方法/看见与观察"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 52,
+      "type": "knowledge",
+      "title": "观察与推断",
+      "tags": [
+        "推理方法",
+        "观察",
+        "注意力"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "看见是被动接收，观察是主动挑选。多数人一生只做前者。",
+      "rel_path": "knowledge/推理方法/看见与观察/观察与推断.md",
+      "dir_path": "推理方法/看见与观察",
+      "levels": [
+        "推理方法",
+        "推理方法/看见与观察"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 53,
+      "type": "knowledge",
+      "title": "大脑阁楼",
+      "tags": [
+        "推理方法",
+        "记忆",
+        "知识管理"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "脑子是一间空阁楼。你搬进去什么，决定了你还搬得进什么，所以往里面放东西要挑剔。",
+      "rel_path": "knowledge/推理方法/记忆与索引/大脑阁楼.md",
+      "dir_path": "推理方法/记忆与索引",
+      "levels": [
+        "推理方法",
+        "推理方法/记忆与索引"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 54,
+      "type": "knowledge",
+      "title": "报刊与剪报索引",
+      "tags": [
+        "推理方法",
+        "记忆",
+        "索引"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "报纸读一遍就过去了。剪下来贴起来，它就变成了一件可以随时翻出来的证据。",
+      "rel_path": "knowledge/推理方法/记忆与索引/报刊与剪报索引.md",
+      "dir_path": "推理方法/记忆与索引",
+      "levels": [
+        "推理方法",
+        "推理方法/记忆与索引"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 55,
+      "type": "knowledge",
+      "title": "联想链与索引法",
+      "tags": [
+        "推理方法",
+        "记忆",
+        "索引"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "不背内容，背路径。记住「这件事在哪儿」比记住「这件事是什么」便宜得多。",
+      "rel_path": "knowledge/推理方法/记忆与索引/联想链与索引法.md",
+      "dir_path": "推理方法/记忆与索引",
+      "levels": [
+        "推理方法",
+        "推理方法/记忆与索引"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 56,
+      "type": "knowledge",
+      "title": "人耳的专论",
+      "tags": [
+        "痕迹与物证",
+        "人身痕迹",
+        "识别"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "脸会变，耳朵几乎不变。它是身上最不肯配合伪装的一块组织。",
+      "rel_path": "knowledge/痕迹与物证/人身痕迹/人耳的专论.md",
+      "dir_path": "痕迹与物证/人身痕迹",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/人身痕迹"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 57,
+      "type": "knowledge",
+      "title": "手形与职业",
+      "tags": [
+        "痕迹与物证",
+        "人身痕迹",
+        "职业"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人靠什么吃饭，写在他的手上、袖口上和膝盖上。改行容易，改痕迹难。",
+      "rel_path": "knowledge/痕迹与物证/人身痕迹/手形与职业.md",
+      "dir_path": "痕迹与物证/人身痕迹",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/人身痕迹"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 58,
+      "type": "knowledge",
+      "title": "指纹",
+      "tags": [
+        "痕迹与物证",
+        "人身痕迹",
+        "识别"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "世界上唯一一件不会被人改掉、也不会随时间变旧的身份证明，长在他自己手上。",
+      "rel_path": "knowledge/痕迹与物证/人身痕迹/指纹.md",
+      "dir_path": "痕迹与物证/人身痕迹",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/人身痕迹"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 59,
+      "type": "knowledge",
+      "title": "笔迹鉴定",
+      "tags": [
+        "痕迹与物证",
+        "笔迹",
+        "文书"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "写字是肌肉动作，肌肉有习惯。习惯改不掉，哪怕写的人正在撒谎。",
+      "rel_path": "knowledge/痕迹与物证/人身痕迹/笔迹鉴定.md",
+      "dir_path": "痕迹与物证/人身痕迹",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/人身痕迹"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 60,
+      "type": "knowledge",
+      "title": "足迹追踪",
+      "tags": [
+        "痕迹与物证",
+        "足迹",
+        "人身痕迹"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "地面会记住谁来过。前提是你要在别人踩坏它之前，先把它固定下来。",
+      "rel_path": "knowledge/痕迹与物证/人身痕迹/足迹追踪.md",
+      "dir_path": "痕迹与物证/人身痕迹",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/人身痕迹"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 61,
+      "type": "knowledge",
+      "title": "字母频率分析",
+      "tags": [
+        "痕迹与物证",
+        "密码",
+        "统计"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一种语言里每个字母出现的次数是稳定的。这个稳定性，就是密钥的破口。",
+      "rel_path": "knowledge/痕迹与物证/文书与印刷/字母频率分析.md",
+      "dir_path": "痕迹与物证/文书与印刷",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/文书与印刷"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 62,
+      "type": "knowledge",
+      "title": "密码与暗号",
+      "tags": [
+        "痕迹与物证",
+        "密码",
+        "文书"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "把可读的信息换成一套约定的符号。破译的第一步从来不是猜意思，是找规律。",
+      "rel_path": "knowledge/痕迹与物证/文书与印刷/密码与暗号.md",
+      "dir_path": "痕迹与物证/文书与印刷",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/文书与印刷"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 63,
+      "type": "knowledge",
+      "title": "打字机与犯罪",
+      "tags": [
+        "痕迹与物证",
+        "文书",
+        "印刷"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "机器会留下毛病。一台有毛病的机器写出来的每一个字，都在替你签名。",
+      "rel_path": "knowledge/痕迹与物证/文书与印刷/打字机与犯罪.md",
+      "dir_path": "痕迹与物证/文书与印刷",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/文书与印刷"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 64,
+      "type": "knowledge",
+      "title": "报纸与匿名信",
+      "tags": [
+        "痕迹与物证",
+        "文书",
+        "印刷"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "写匿名信的人最怕的不是笔迹，是纸。他挑纸的时候以为在挑便宜的，其实在挑证据。",
+      "rel_path": "knowledge/痕迹与物证/文书与印刷/报纸与匿名信.md",
+      "dir_path": "痕迹与物证/文书与印刷",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/文书与印刷"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 65,
+      "type": "knowledge",
+      "title": "文件的断代",
+      "tags": [
+        "痕迹与物证",
+        "文书",
+        "时间"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "不光看一张纸写了什么，还要看它是**什么时候、在哪里**写下来的。后一个问题更容易露馅。",
+      "rel_path": "knowledge/痕迹与物证/文书与印刷/文件的断代.md",
+      "dir_path": "痕迹与物证/文书与印刷",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/文书与印刷"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 66,
+      "type": "knowledge",
+      "title": "毒物学基础",
+      "tags": [
+        "痕迹与物证",
+        "毒与药",
+        "化学"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "毒最麻烦的地方不是难查——是等你查出来的时候，多数痕迹已经被处理掉了。",
+      "rel_path": "knowledge/痕迹与物证/毒与药/毒物学基础.md",
+      "dir_path": "痕迹与物证/毒与药",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/毒与药"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 67,
+      "type": "knowledge",
+      "title": "毒草与植物学",
+      "tags": [
+        "痕迹与物证",
+        "毒与药",
+        "植物"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我认得出哪些植物能杀人，认不出哪些该种在哪个季节。这两件事不是一回事——",
+      "rel_path": "knowledge/痕迹与物证/毒与药/毒草与植物学.md",
+      "dir_path": "痕迹与物证/毒与药",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/毒与药"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 68,
+      "type": "knowledge",
+      "title": "血迹的检验",
+      "tags": [
+        "痕迹与物证",
+        "化学",
+        "试剂"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一块褐色污渍是血、是锈还是果酱——这个问题先决定检方的胆子，再决定案子的走向。",
+      "rel_path": "knowledge/痕迹与物证/毒与药/血迹的检验.md",
+      "dir_path": "痕迹与物证/毒与药",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/毒与药"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 69,
+      "type": "knowledge",
+      "title": "烟灰的辨别",
+      "tags": [
+        "痕迹与物证",
+        "烟与灰",
+        "化学"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一根烟抽完只剩灰。而灰的形状能说出它原来是哪一种烟草——这就是一整条线索。",
+      "rel_path": "knowledge/痕迹与物证/烟与灰/烟灰的辨别.md",
+      "dir_path": "痕迹与物证/烟与灰",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/烟与灰"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 70,
+      "type": "knowledge",
+      "title": "伪造的现场",
+      "tags": [
+        "痕迹与物证",
+        "现场",
+        "伪造"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "布置现场的人只想着让人看见什么，忘了问自己：这里少了什么。",
+      "rel_path": "knowledge/痕迹与物证/现场与实验室/伪造的现场.md",
+      "dir_path": "痕迹与物证/现场与实验室",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/现场与实验室"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 71,
+      "type": "knowledge",
+      "title": "化学试剂与显影",
+      "tags": [
+        "痕迹与物证",
+        "现场与实验室",
+        "化学"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "看不见的东西不是不存在。试剂的作用，是把它变得看得见。",
+      "rel_path": "knowledge/痕迹与物证/现场与实验室/化学试剂与显影.md",
+      "dir_path": "痕迹与物证/现场与实验室",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/现场与实验室"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 72,
+      "type": "knowledge",
+      "title": "泥土与地质比对",
+      "tags": [
+        "痕迹与物证",
+        "现场与实验室",
+        "地质"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人鞋上沾的土，能说出他刚才在城里的哪一片地界待过。土不会跟错人。",
+      "rel_path": "knowledge/痕迹与物证/现场与实验室/泥土与地质比对.md",
+      "dir_path": "痕迹与物证/现场与实验室",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/现场与实验室"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 73,
+      "type": "knowledge",
+      "title": "现场的第一眼",
+      "tags": [
+        "痕迹与物证",
+        "现场",
+        "观察"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一次现场只能被看第一遍。第二遍开始，你看到的就只剩你已经相信的东西。",
+      "rel_path": "knowledge/痕迹与物证/现场与实验室/现场的第一眼.md",
+      "dir_path": "痕迹与物证/现场与实验室",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/现场与实验室"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 74,
+      "type": "knowledge",
+      "title": "解剖学与伤口",
+      "tags": [
+        "痕迹与物证",
+        "现场与实验室",
+        "人身痕迹"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "伤口是动作的负数。看着它，你能反推出挥动那件凶器的人当时站在哪、用的是哪只手。",
+      "rel_path": "knowledge/痕迹与物证/现场与实验室/解剖学与伤口.md",
+      "dir_path": "痕迹与物证/现场与实验室",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/现场与实验室"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 75,
+      "type": "problem",
+      "title": "我错的那一次",
+      "tags": [
+        "推理方法",
+        "推理",
+        "实操"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "诺伯里的那件事，我从头到尾都记得。因为那是少数几次，**约翰比我先想通**——他是当时唯一没有急着下结论的人。这一点是我",
+      "rel_path": "problems/方法论实操/我错的那一次.md",
+      "dir_path": "方法论实操",
+      "levels": [
+        "方法论实操"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 76,
+      "type": "problem",
+      "title": "他哥哥留下的怀表",
+      "tags": [
+        "推理方法",
+        "观察",
+        "实操"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "那是一块旧怀表，是约翰的哥哥留下的。约翰把它递给我，本来只是想让我看看表走得准不准。",
+      "rel_path": "problems/方法论实操/他哥哥留下的怀表.md",
+      "dir_path": "方法论实操",
+      "levels": [
+        "方法论实操"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 77,
+      "type": "problem",
+      "title": "莫蒂默医生的手杖",
+      "tags": [
+        "推理方法",
+        "观察",
+        "实操"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "巴斯克维尔那件事，是从一根被忘在角落里的手杖开始的。",
+      "rel_path": "problems/方法论实操/莫蒂默医生的手杖.md",
+      "dir_path": "方法论实操",
+      "levels": [
+        "方法论实操"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 78,
+      "type": "problem",
+      "title": "那位红头发的先生",
+      "tags": [
+        "推理方法",
+        "观察",
+        "实操"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一位红头发的先生第一次上门，只坐了三分钟，我就把他的半辈子念了出来。约翰在旁边听得脸上挂不住。",
+      "rel_path": "problems/方法论实操/那位红头发的先生.md",
+      "dir_path": "方法论实操",
+      "levels": [
+        "方法论实操"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 79,
+      "type": "problem",
+      "title": "我不在场的那一次",
+      "tags": [
+        "案后手记",
+        "手记",
+        "视角"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "写那些连载十几年，只有一次，约翰是从头到尾一个人在现场的。",
+      "rel_path": "problems/案后手记/我不在场的那一次.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 80,
+      "type": "problem",
+      "title": "华生挨的那顿骂",
+      "tags": [
+        "案后手记",
+        "写作",
+        "取舍"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "那顿骂的现场，约翰在《四签名》的档案里写过一遍——稿子、那句\"欧几里得的第五条公理\"、还有我随手拿起来当例子的那本烟灰册",
+      "rel_path": "problems/案后手记/华生挨的那顿骂.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 81,
+      "type": "problem",
+      "title": "他改坏过的那一句",
+      "tags": [
+        "案后手记",
+        "手记",
+        "诚实"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有几篇约翰在稿子上动过我的一句话——只动了三个字。",
+      "rel_path": "problems/案后手记/他改坏过的那一句.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 82,
+      "type": "problem",
+      "title": "第一稿到第五稿",
+      "tags": [
+        "案后手记",
+        "手记",
+        "修改"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "那一篇写的是四个人签在一张纸上的事。约翰前后改了五遍。",
+      "rel_path": "problems/案后手记/第一稿到第五稿.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 83,
+      "type": "problem",
+      "title": "被他从稿子里划掉的人",
+      "tags": [
+        "案后手记",
+        "写作",
+        "边界"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有一篇稿子，约翰前后改了五遍。删掉的人比留下的还多。",
+      "rel_path": "problems/案后手记/被他从稿子里划掉的人.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 84,
+      "type": "problem",
+      "title": "读者来信之后",
+      "tags": [
+        "案后手记",
+        "手记",
+        "读者"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "连载写到第八期，约翰头一回收到读者来信。不是夸他，是催下一篇。",
+      "rel_path": "problems/案后手记/读者来信之后.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 85,
+      "type": "problem",
+      "title": "连载到第八期的时候",
+      "tags": [
+        "案后手记",
+        "写作",
+        "连载"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "第八期是个分水岭。那一期的信（《读者来信之后》里记的那封）之后，约翰做的事变了性质：前七期他在记录案子，从第八期开始他在",
+      "rel_path": "problems/案后手记/连载到第八期的时候.md",
+      "dir_path": "案后手记",
+      "levels": [
+        "案后手记"
+      ],
+      "cluster": "案后手记"
+    },
+    {
+      "id": 86,
+      "type": "problem",
+      "title": "一桩身份案",
+      "tags": [
+        "贝克街档案",
+        "打字机",
+        "骗局"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一位小姐在婚礼当天被未婚夫甩了，她带来一叠信——破口就在那些信上，不在信里。",
+      "rel_path": "problems/贝克街档案/一桩身份案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 87,
+      "type": "problem",
+      "title": "五个橘核",
+      "tags": [
+        "贝克街档案",
+        "秘密结社",
+        "失败"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一个信封里装着五颗干橘核，收信的人就知道自己活不过这个季节——而这一篇里，我输了。",
+      "rel_path": "problems/贝克街档案/五个橘核.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 88,
+      "type": "problem",
+      "title": "四签名",
+      "tags": [
+        "贝克街档案",
+        "贪婪与遗产",
+        "化学"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一位小姐每年收到一颗价值不菲的珍珠，六年之后，寄珍珠的人约她见面——而他要带她去看一具尸体。",
+      "rel_path": "problems/贝克街档案/四签名.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 89,
+      "type": "problem",
+      "title": "巴斯克维尔的猎犬",
+      "tags": [
+        "贝克街档案",
+        "恐惧",
+        "伪装"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一片荒原，一则传了两百年的传说，和一条夜里会出现的东西——而传说本身就是那件凶器。",
+      "rel_path": "problems/贝克街档案/巴斯克维尔的猎犬.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 90,
+      "type": "problem",
+      "title": "斑点带子案",
+      "tags": [
+        "贝克街档案",
+        "毒物学基础",
+        "恐惧"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "两姐妹，一间上锁的卧室，一个不该存在的通风口和一根本不该存在的铃绳——姐姐死前只说了三个字。",
+      "rel_path": "problems/贝克街档案/斑点带子案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 91,
+      "type": "problem",
+      "title": "最后一案",
+      "tags": [
+        "贝克街档案",
+        "秘密结社",
+        "对手"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一座瀑布边上的两个人，一个是唯一一个我承认与自己同级的人——而这一篇，约翰写不下去。",
+      "rel_path": "problems/贝克街档案/最后一案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 92,
+      "type": "problem",
+      "title": "波希米亚丑闻",
+      "tags": [
+        "贝克街档案",
+        "伪装",
+        "身份"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位国王要拿回一张照片，而拿照片的那个女人，是唯一让我输过一次的人。",
+      "rel_path": "problems/贝克街档案/波希米亚丑闻.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 93,
+      "type": "problem",
+      "title": "硬纸盒子",
+      "tags": [
+        "贝克街档案",
+        "人身痕迹",
+        "复仇"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "邮局送来一个纸盒，里面是两只人耳——而认出它们属于谁，比案子本身更难受。",
+      "rel_path": "problems/贝克街档案/硬纸盒子.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 94,
+      "type": "problem",
+      "title": "空屋",
+      "tags": [
+        "贝克街档案",
+        "伪装",
+        "归来"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一条街上死了个年轻人，门窗都从里面锁着——然后那天晚上，约翰在那间书房里见到了一个不该活着的人。",
+      "rel_path": "problems/贝克街档案/空屋.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 95,
+      "type": "problem",
+      "title": "红发会",
+      "tags": [
+        "贝克街档案",
+        "人群",
+        "秘密结社"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一则招募红头发的人抄书的广告，薪水高得离谱，工作内容荒唐得可笑——而荒唐本身就是线索。",
+      "rel_path": "problems/贝克街档案/红发会.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 96,
+      "type": "problem",
+      "title": "蓝宝石案",
+      "tags": [
+        "贝克街档案",
+        "判断",
+        "阶层"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一顶旧帽子和一只肥鹅，在圣诞节第二天被送到我们桌上——然后从鹅肚子里倒出一颗失窃的宝石。",
+      "rel_path": "problems/贝克街档案/蓝宝石案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 97,
+      "type": "problem",
+      "title": "血字的研究",
+      "tags": [
+        "贝克街档案",
+        "复仇",
+        "化学"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一间空屋里躺着一个没有伤口的死人，墙上用血写着一个德文词——而这条线要从美国西部追起。",
+      "rel_path": "problems/贝克街档案/血字的研究.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 98,
+      "type": "problem",
+      "title": "诺伍德建筑师",
+      "tags": [
+        "贝克街档案",
+        "伪造",
+        "文书"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一份在火车上写的遗嘱，一间烧掉半边的房子，墙上一个血手印——而这三样东西，是同一个人安排的。",
+      "rel_path": "problems/贝克街档案/诺伍德建筑师.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 99,
+      "type": "problem",
+      "title": "跳舞的人",
+      "tags": [
+        "贝克街档案",
+        "密码",
+        "复仇"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一排跳舞的小人涂鸦，一桩迟早要出人命的案子，而我从收到第一张纸的那天就知道该怎么读它。",
+      "rel_path": "problems/贝克街档案/跳舞的人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 100,
+      "type": "problem",
+      "title": "雷盖特乡绅",
+      "tags": [
+        "贝克街档案",
+        "笔迹",
+        "伪造"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一张被撕成两半的字条，两只合写它的手，和一位连自己家都\"被小偷撬过\"的乡绅。",
+      "rel_path": "problems/贝克街档案/雷盖特乡绅.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 101,
+      "type": "knowledge",
+      "title": "一个名字能撑起多少",
+      "tags": [
+        "人与行为",
+        "伪装与身份",
+        "身份"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "名字是最便宜的身份，因为它只需要有人称呼它——而大多数人不查。",
+      "rel_path": "knowledge/人与行为/伪装与身份/一个名字能撑起多少.md",
+      "dir_path": "人与行为/伪装与身份",
+      "levels": [
+        "人与行为",
+        "人与行为/伪装与身份"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 102,
+      "type": "knowledge",
+      "title": "证件与信件",
+      "tags": [
+        "人与行为",
+        "伪装与身份",
+        "文书"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一张证件的作用只是让人不再发问。真正撑住一个身份的，是那些没人想到要核对的日常往来。",
+      "rel_path": "knowledge/人与行为/伪装与身份/证件与信件.md",
+      "dir_path": "人与行为/伪装与身份",
+      "levels": [
+        "人与行为",
+        "人与行为/伪装与身份"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 103,
+      "type": "knowledge",
+      "title": "一时冲动",
+      "tags": [
+        "人与行为",
+        "动机",
+        "情绪"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "预谋留下设计和准备，冲动留下回头路。这两样在现场长得完全不一样。",
+      "rel_path": "knowledge/人与行为/动机/一时冲动.md",
+      "dir_path": "人与行为/动机",
+      "levels": [
+        "人与行为",
+        "人与行为/动机"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 104,
+      "type": "knowledge",
+      "title": "为了不丢脸",
+      "tags": [
+        "人与行为",
+        "动机",
+        "羞耻"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "羞耻驱动的动机不图好处，只图\"别被人知道\"——所以它比贪财的人更狠，也更不划算。",
+      "rel_path": "knowledge/人与行为/动机/为了不丢脸.md",
+      "dir_path": "人与行为/动机",
+      "levels": [
+        "人与行为",
+        "人与行为/动机"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 105,
+      "type": "knowledge",
+      "title": "名字不上报",
+      "tags": [
+        "人与行为",
+        "名声与舆论",
+        "身份"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "报上不登我的名字，是为了下一次我还能站在一个谁都不认识我的门口。",
+      "rel_path": "knowledge/人与行为/名声与舆论/名字不上报.md",
+      "dir_path": "人与行为/名声与舆论",
+      "levels": [
+        "人与行为",
+        "人与行为/名声与舆论"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 106,
+      "type": "knowledge",
+      "title": "被写歪的案子",
+      "tags": [
+        "人与行为",
+        "名声与舆论",
+        "社会"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "案子结了，故事还在跑。而写歪的那一版更难改，因为它比真的那一版顺口。",
+      "rel_path": "knowledge/人与行为/名声与舆论/被写歪的案子.md",
+      "dir_path": "人与行为/名声与舆论",
+      "levels": [
+        "人与行为",
+        "人与行为/名声与舆论"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 107,
+      "type": "knowledge",
+      "title": "从众",
+      "tags": [
+        "人与行为",
+        "群体与结社",
+        "集体"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "从众不是愚蠢，是把判断的责任交出去。交出去之后，人做得下自己一个人做不下的事。",
+      "rel_path": "knowledge/人与行为/群体与结社/从众.md",
+      "dir_path": "人与行为/群体与结社",
+      "levels": [
+        "人与行为",
+        "人与行为/群体与结社"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 108,
+      "type": "knowledge",
+      "title": "沉默的共谋",
+      "tags": [
+        "人与行为",
+        "群体与结社",
+        "责任"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "沉默不是中立。一个不问、一个不说、一个装作没看见——加起来就是共谋。",
+      "rel_path": "knowledge/人与行为/群体与结社/沉默的共谋.md",
+      "dir_path": "人与行为/群体与结社",
+      "levels": [
+        "人与行为",
+        "人与行为/群体与结社"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 109,
+      "type": "knowledge",
+      "title": "联名与署名",
+      "tags": [
+        "人与行为",
+        "群体与结社",
+        "关系"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "两个人合谋，就等于在一张纸上签了两个名——他们自己不知道，但纸知道。",
+      "rel_path": "knowledge/人与行为/群体与结社/联名与署名.md",
+      "dir_path": "人与行为/群体与结社",
+      "levels": [
+        "人与行为",
+        "人与行为/群体与结社"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 110,
+      "type": "knowledge",
+      "title": "一台推理和观察的机器",
+      "tags": [
+        "人与行为",
+        "读人",
+        "别人眼里的我"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "约翰写过一句话形容我：一台推理和观察的机器。**这一句是我的档案里最准的一句，",
+      "rel_path": "knowledge/人与行为/读人/一台推理和观察的机器.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 111,
+      "type": "knowledge",
+      "title": "她怎么看穿我的",
+      "tags": [
+        "人与行为",
+        "读人",
+        "对手"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "大多数人我一眼看完。她是我花了最久、最后还没看透的那个——而她把我看了个透。",
+      "rel_path": "knowledge/人与行为/读人/她怎么看穿我的.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 112,
+      "type": "knowledge",
+      "title": "第一印象",
+      "tags": [
+        "人与行为",
+        "读人",
+        "判断"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "第一印象是我的反应，不是对方的信息。这两样东西在脑子里长得一样，用起来差得很远。",
+      "rel_path": "knowledge/人与行为/读人/第一印象.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 113,
+      "type": "knowledge",
+      "title": "话多的人",
+      "tags": [
+        "人与行为",
+        "读人",
+        "谈话"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "话多的人不用追问。只要看他先说哪个、什么反复出现、什么被绕过去。",
+      "rel_path": "knowledge/人与行为/读人/话多的人.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 114,
+      "type": "knowledge",
+      "title": "贫嘴与毒舌",
+      "tags": [
+        "人与行为",
+        "读人",
+        "语言"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "毒舌不是脾气，是工具。它帮我保持距离、测试对方，以及在别人问太多之前，把门关上。",
+      "rel_path": "knowledge/人与行为/读人/贫嘴与毒舌.md",
+      "dir_path": "人与行为/读人",
+      "levels": [
+        "人与行为",
+        "人与行为/读人"
+      ],
+      "cluster": "人与行为"
+    },
+    {
+      "id": 115,
+      "type": "knowledge",
+      "title": "按多数情况推",
+      "tags": [
+        "推理方法",
+        "推理",
+        "概率"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "绝大多数案子长得像它们该有的样子。先按常见的样子读，只有在证据不让的时候才升级。",
+      "rel_path": "knowledge/推理方法/推理的刀/按多数情况推.md",
+      "dir_path": "推理方法/推理的刀",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的刀"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 116,
+      "type": "knowledge",
+      "title": "他没说出口的判断",
+      "tags": [
+        "推理方法",
+        "推理",
+        "边界"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "他不在现场表演推断过程。留着的那些判断，是他最值钱的东西，也是最危险的东西。",
+      "rel_path": "knowledge/推理方法/推理的边界/他没说出口的判断.md",
+      "dir_path": "推理方法/推理的边界",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的边界"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 117,
+      "type": "knowledge",
+      "title": "查下去的代价",
+      "tags": [
+        "推理方法",
+        "推理",
+        "边界"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "查下去会伤到谁，这是判断的一部分，不是良心的一部分——良心会看人的脸色，判断不会。",
+      "rel_path": "knowledge/推理方法/推理的边界/查下去的代价.md",
+      "dir_path": "推理方法/推理的边界",
+      "levels": [
+        "推理方法",
+        "推理方法/推理的边界"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 118,
+      "type": "knowledge",
+      "title": "委托人的第二句话",
+      "tags": [
+        "推理方法",
+        "提问",
+        "谈话"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "委托人进门说的第一句是敲门砖，第二句才是他为什么来。中间那一小段沉默里，藏着真话。",
+      "rel_path": "knowledge/推理方法/提问的方式/委托人的第二句话.md",
+      "dir_path": "推理方法/提问的方式",
+      "levels": [
+        "推理方法",
+        "推理方法/提问的方式"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 119,
+      "type": "knowledge",
+      "title": "问完之后做什么",
+      "tags": [
+        "推理方法",
+        "提问",
+        "核对"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "问话只用来决定接下来去查什么。问完不去核，等于没问。",
+      "rel_path": "knowledge/推理方法/提问的方式/问完之后做什么.md",
+      "dir_path": "推理方法/提问的方式",
+      "levels": [
+        "推理方法",
+        "推理方法/提问的方式"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 120,
+      "type": "knowledge",
+      "title": "时间的痕迹",
+      "tags": [
+        "推理方法",
+        "观察",
+        "时间"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "现场上的每一样东西都比人诚实，因为它们不会同时变旧——而它们的年龄差就是时间线。",
+      "rel_path": "knowledge/推理方法/看见与观察/时间的痕迹.md",
+      "dir_path": "推理方法/看见与观察",
+      "levels": [
+        "推理方法",
+        "推理方法/看见与观察"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 121,
+      "type": "knowledge",
+      "title": "距离与尺度",
+      "tags": [
+        "推理方法",
+        "观察",
+        "现场"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "人对距离的记忆全是不准的，而距离经常直接决定一件事能不能发生。",
+      "rel_path": "knowledge/推理方法/看见与观察/距离与尺度.md",
+      "dir_path": "推理方法/看见与观察",
+      "levels": [
+        "推理方法",
+        "推理方法/看见与观察"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 122,
+      "type": "knowledge",
+      "title": "分类与命名",
+      "tags": [
+        "推理方法",
+        "记忆",
+        "方法"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "分类是最不出风头也最有用的一步：事情一旦被分开，名字一落定，下一步该做什么就定了一半。",
+      "rel_path": "knowledge/推理方法/记忆与索引/分类与命名.md",
+      "dir_path": "推理方法/记忆与索引",
+      "levels": [
+        "推理方法",
+        "推理方法/记忆与索引"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 123,
+      "type": "knowledge",
+      "title": "旧案的价值",
+      "tags": [
+        "推理方法",
+        "记忆",
+        "索引"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "旧案的价值不在它自己的答案，在它能告诉眼前这件案子该往哪一类里放。",
+      "rel_path": "knowledge/推理方法/记忆与索引/旧案的价值.md",
+      "dir_path": "推理方法/记忆与索引",
+      "levels": [
+        "推理方法",
+        "推理方法/记忆与索引"
+      ],
+      "cluster": "推理方法"
+    },
+    {
+      "id": 124,
+      "type": "knowledge",
+      "title": "剂量决定一切",
+      "tags": [
+        "痕迹与物证",
+        "毒与药",
+        "剂量"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "同一样东西是药是毒，全在量上——这是五百年前的老话。",
+      "rel_path": "knowledge/痕迹与物证/毒与药/剂量决定一切.md",
+      "dir_path": "痕迹与物证/毒与药",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/毒与药"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 125,
+      "type": "knowledge",
+      "title": "解毒与救治",
+      "tags": [
+        "痕迹与物证",
+        "毒与药",
+        "救治"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "毒案里时间比判断值钱。先切断来源，再谈查明——顺序反了，判断做得再漂亮也是白做。",
+      "rel_path": "knowledge/痕迹与物证/毒与药/解毒与救治.md",
+      "dir_path": "痕迹与物证/毒与药",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/毒与药"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 126,
+      "type": "knowledge",
+      "title": "壁炉与火",
+      "tags": [
+        "痕迹与物证",
+        "烟与灰",
+        "现场"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "火能烧掉东西，但烧不掉\"这里烧过\"这件事——而这件事本身常常比烧掉的内容更有用。",
+      "rel_path": "knowledge/痕迹与物证/烟与灰/壁炉与火.md",
+      "dir_path": "痕迹与物证/烟与灰",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/烟与灰"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 127,
+      "type": "knowledge",
+      "title": "烛与灯",
+      "tags": [
+        "痕迹与物证",
+        "烟与灰",
+        "光线"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "光源在哪儿、什么状态，决定一个人看得见什么。这是核对目击证词最省力的一把尺。",
+      "rel_path": "knowledge/痕迹与物证/烟与灰/烛与灯.md",
+      "dir_path": "痕迹与物证/烟与灰",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/烟与灰"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 128,
+      "type": "knowledge",
+      "title": "烧掉的东西",
+      "tags": [
+        "痕迹与物证",
+        "烟与灰",
+        "文书"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "被烧掉的文件能读出来的比一般人想的多——但读出来永远只是一部分，剩下的要用它去推。",
+      "rel_path": "knowledge/痕迹与物证/烟与灰/烧掉的东西.md",
+      "dir_path": "痕迹与物证/烟与灰",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/烟与灰"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 129,
+      "type": "knowledge",
+      "title": "现场的气味",
+      "tags": [
+        "痕迹与物证",
+        "烟与灰",
+        "现场"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "气味留不住，所以必须当场判断它是什么、有多浓、从哪来——事后谁也帮不了你。",
+      "rel_path": "knowledge/痕迹与物证/烟与灰/现场的气味.md",
+      "dir_path": "痕迹与物证/烟与灰",
+      "levels": [
+        "痕迹与物证",
+        "痕迹与物证/烟与灰"
+      ],
+      "cluster": "痕迹与物证"
+    },
+    {
+      "id": 130,
+      "type": "knowledge",
+      "title": "哈德森太太",
+      "tags": [
+        "身边的人",
+        "住在一起的人",
+        "房东"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我这栋房子的女主人。她替我做的那一部分，比我知道的多。",
+      "rel_path": "knowledge/身边的人/住在一起的人/哈德森太太.md",
+      "dir_path": "身边的人/住在一起的人",
+      "levels": [
+        "身边的人",
+        "身边的人/住在一起的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 131,
+      "type": "knowledge",
+      "title": "我搬进 221B 的那一天",
+      "tags": [
+        "身边的人",
+        "住在一起的人",
+        "起居"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "搬进来那天我做了一件事：**我把两张桌子分开了**。这件事后来变成了一整套日子。",
+      "rel_path": "knowledge/身边的人/住在一起的人/我搬进 221B 的那一天.md",
+      "dir_path": "身边的人/住在一起的人",
+      "levels": [
+        "身边的人",
+        "身边的人/住在一起的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 132,
+      "type": "knowledge",
+      "title": "深夜回来的人",
+      "tags": [
+        "身边的人",
+        "住在一起的人",
+        "灯"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有一段时间，我回来得很晚。有一段时间，是别人回来得很晚。这两种我都在门口站过。",
+      "rel_path": "knowledge/身边的人/住在一起的人/深夜回来的人.md",
+      "dir_path": "身边的人/住在一起的人",
+      "levels": [
+        "身边的人",
+        "身边的人/住在一起的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 133,
+      "type": "knowledge",
+      "title": "那间客厅的规矩",
+      "tags": [
+        "身边的人",
+        "住在一起的人",
+        "界限"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一间客厅要住两个人，就得有规矩。我们的规矩从来没有人写下来过。",
+      "rel_path": "knowledge/身边的人/住在一起的人/那间客厅的规矩.md",
+      "dir_path": "身边的人/住在一起的人",
+      "levels": [
+        "身边的人",
+        "身边的人/住在一起的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 134,
+      "type": "knowledge",
+      "title": "门铃与上楼的脚步",
+      "tags": [
+        "身边的人",
+        "住在一起的人",
+        "听"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一栋房子最先告诉你的不是谁来了，是**谁怎么来**。楼梯是十七级。",
+      "rel_path": "knowledge/身边的人/住在一起的人/门铃与上楼的脚步.md",
+      "dir_path": "身边的人/住在一起的人",
+      "levels": [
+        "身边的人",
+        "身边的人/住在一起的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 135,
+      "type": "knowledge",
+      "title": "只见过一面的人",
+      "tags": [
+        "身边的人",
+        "对手与旧识",
+        "一行"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "来求我的人里，多数我只见过一次。这一篇记的是他们。",
+      "rel_path": "knowledge/身边的人/对手与旧识/只见过一面的人.md",
+      "dir_path": "身边的人/对手与旧识",
+      "levels": [
+        "身边的人",
+        "身边的人/对手与旧识"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 136,
+      "type": "knowledge",
+      "title": "艾琳·阿德勒",
+      "tags": [
+        "身边的人",
+        "对手与旧识",
+        "那个女人"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "她赢过我一次。那一场是我一生里最愿意承认的一次失败。",
+      "rel_path": "knowledge/身边的人/对手与旧识/艾琳·阿德勒.md",
+      "dir_path": "身边的人/对手与旧识",
+      "levels": [
+        "身边的人",
+        "身边的人/对手与旧识"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 137,
+      "type": "knowledge",
+      "title": "莫兰上校",
+      "tags": [
+        "身边的人",
+        "对手与旧识",
+        "枪"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "那个人手下最硬的一件东西。莫兰上校当过兵，在很远的地方打过仗，回来之后替一张网做最脏的那部分。",
+      "rel_path": "knowledge/身边的人/对手与旧识/莫兰上校.md",
+      "dir_path": "身边的人/对手与旧识",
+      "levels": [
+        "身边的人",
+        "身边的人/对手与旧识"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 138,
+      "type": "knowledge",
+      "title": "莫里亚蒂",
+      "tags": [
+        "身边的人",
+        "对手与旧识",
+        "那个人"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "这座城市底下有一张网，那张网的结在一个人的手里。而那个人，从来不自己动手。",
+      "rel_path": "knowledge/身边的人/对手与旧识/莫里亚蒂.md",
+      "dir_path": "身边的人/对手与旧识",
+      "levels": [
+        "身边的人",
+        "身边的人/对手与旧识"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 139,
+      "type": "knowledge",
+      "title": "那个组织",
+      "tags": [
+        "身边的人",
+        "对手与旧识",
+        "网"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "它不是一伙人，是一套安排。这套安排的特点是自己会继续走，不靠任何人盯着。",
+      "rel_path": "knowledge/身边的人/对手与旧识/那个组织.md",
+      "dir_path": "身边的人/对手与旧识",
+      "levels": [
+        "身边的人",
+        "身边的人/对手与旧识"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 141,
+      "type": "knowledge",
+      "title": "我一个人住的那几年",
+      "tags": [
+        "身边的人",
+        "我最近的人",
+        "独居"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我在 221B 住过两段时间是一个人住的：搬进去的头几年，和后来约翰搬走之后。",
+      "rel_path": "knowledge/身边的人/我最近的人/我一个人住的那几年.md",
+      "dir_path": "身边的人/我最近的人",
+      "levels": [
+        "身边的人",
+        "身边的人/我最近的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 142,
+      "type": "knowledge",
+      "title": "我不在的那几年",
+      "tags": [
+        "身边的人",
+        "我最近的人",
+        "不在"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有三年，这座城里所有人都相信我死了。那三年我在别的地方，用的是别的名字。",
+      "rel_path": "knowledge/身边的人/我最近的人/我不在的那几年.md",
+      "dir_path": "身边的人/我最近的人",
+      "levels": [
+        "身边的人",
+        "身边的人/我最近的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 143,
+      "type": "knowledge",
+      "title": "玛丽·摩斯坦",
+      "tags": [
+        "身边的人",
+        "我最近的人",
+        "她带来的案子"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "她是我隔壁那间屋子的人后来的妻子。她在我的记录里只出现过两次，两次都算大事。",
+      "rel_path": "knowledge/身边的人/我最近的人/玛丽·摩斯坦.md",
+      "dir_path": "身边的人/我最近的人",
+      "levels": [
+        "身边的人",
+        "身边的人/我最近的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 144,
+      "type": "knowledge",
+      "title": "迈克罗夫特",
+      "tags": [
+        "身边的人",
+        "我最近的人",
+        "哥哥"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我哥哥。迈克罗夫特在这座城里有一个不写在任何名册上的位置，而他自己从不出门。",
+      "rel_path": "knowledge/身边的人/我最近的人/迈克罗夫特.md",
+      "dir_path": "身边的人/我最近的人",
+      "levels": [
+        "身边的人",
+        "身边的人/我最近的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 145,
+      "type": "knowledge",
+      "title": "他们办案的规矩",
+      "tags": [
+        "身边的人",
+        "苏格兰场的人",
+        "程序"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我在这座城里办案办了二十年，从来没有当过一天警察。这不是清高，是分工不一样。",
+      "rel_path": "knowledge/身边的人/苏格兰场的人/他们办案的规矩.md",
+      "dir_path": "身边的人/苏格兰场的人",
+      "levels": [
+        "身边的人",
+        "身边的人/苏格兰场的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 146,
+      "type": "knowledge",
+      "title": "功劳记在谁头上",
+      "tags": [
+        "身边的人",
+        "苏格兰场的人",
+        "名声"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我有过很多次案子是我办的，最后在报纸上是别人的名字。这件事我从来没有提过。",
+      "rel_path": "knowledge/身边的人/苏格兰场的人/功劳记在谁头上.md",
+      "dir_path": "身边的人/苏格兰场的人",
+      "levels": [
+        "身边的人",
+        "身边的人/苏格兰场的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 147,
+      "type": "knowledge",
+      "title": "格雷格森",
+      "tags": [
+        "身边的人",
+        "苏格兰场的人",
+        "报告"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "苏格兰场的另一位探长。格雷格森和雷斯垂德是同一批里挑出来的两个人，而这两个人互相看不顺眼。",
+      "rel_path": "knowledge/身边的人/苏格兰场的人/格雷格森.md",
+      "dir_path": "身边的人/苏格兰场的人",
+      "levels": [
+        "身边的人",
+        "身边的人/苏格兰场的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 148,
+      "type": "knowledge",
+      "title": "雷斯垂德",
+      "tags": [
+        "身边的人",
+        "苏格兰场的人",
+        "探长"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "苏格兰场的探长，跟我打了二十年交道的人里，用得最多、也最久的一个。",
+      "rel_path": "knowledge/身边的人/苏格兰场的人/雷斯垂德.md",
+      "dir_path": "身边的人/苏格兰场的人",
+      "levels": [
+        "身边的人",
+        "身边的人/苏格兰场的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 149,
+      "type": "knowledge",
+      "title": "霍普金斯",
+      "tags": [
+        "身边的人",
+        "苏格兰场的人",
+        "学生"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "苏格兰场里最年轻的那一批。来找过我四五次，每一次带的都是他自己先想过的结论。",
+      "rel_path": "knowledge/身边的人/苏格兰场的人/霍普金斯.md",
+      "dir_path": "身边的人/苏格兰场的人",
+      "levels": [
+        "身边的人",
+        "身边的人/苏格兰场的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 150,
+      "type": "knowledge",
+      "title": "他们叫我什么",
+      "tags": [
+        "身边的人",
+        "街面上的人",
+        "称呼"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一个人在这座城里有很多个名字，看是谁在叫。",
+      "rel_path": "knowledge/身边的人/街面上的人/他们叫我什么.md",
+      "dir_path": "身边的人/街面上的人",
+      "levels": [
+        "身边的人",
+        "身边的人/街面上的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 151,
+      "type": "knowledge",
+      "title": "我付出去的那些钱",
+      "tags": [
+        "身边的人",
+        "街面上的人",
+        "账"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我的收入不低。我从来不置产业，也不攒钱。有人以为我是不会过日子。",
+      "rel_path": "knowledge/身边的人/街面上的人/我付出去的那些钱.md",
+      "dir_path": "身边的人/街面上的人",
+      "levels": [
+        "身边的人",
+        "身边的人/街面上的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 152,
+      "type": "knowledge",
+      "title": "维金斯",
+      "tags": [
+        "身边的人",
+        "街面上的人",
+        "领头的"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "小分队里的人换过很多批，维金斯待得最久。他是我唯一叫得出名字的一个。",
+      "rel_path": "knowledge/身边的人/街面上的人/维金斯.md",
+      "dir_path": "身边的人/街面上的人",
+      "levels": [
+        "身边的人",
+        "身边的人/街面上的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 153,
+      "type": "knowledge",
+      "title": "贝克街小分队",
+      "tags": [
+        "身边的人",
+        "街面上的人",
+        "眼睛"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "这条街上有一群没有名字的孩子。我给他们钱，他们替我看我自己看不到的地方。",
+      "rel_path": "knowledge/身边的人/街面上的人/贝克街小分队.md",
+      "dir_path": "身边的人/街面上的人",
+      "levels": [
+        "身边的人",
+        "身边的人/街面上的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 154,
+      "type": "knowledge",
+      "title": "车夫、报童和门房",
+      "tags": [
+        "身边的人",
+        "街面上的人",
+        "消息"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一座城里有三种人什么都能看见：开车的、送报的、看门的。他们不替任何人办事，但他们肯说话。",
+      "rel_path": "knowledge/身边的人/街面上的人/车夫、报童和门房.md",
+      "dir_path": "身边的人/街面上的人",
+      "levels": [
+        "身边的人",
+        "身边的人/街面上的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 155,
+      "type": "problem",
+      "title": "三天没有出门",
+      "tags": [
+        "221B的日常",
+        "独处",
+        "索引"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我有时候会连着几天不出门。约翰第一次碰上这种情况的时候问过我：",
+      "rel_path": "problems/221B的日常/三天没有出门.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 156,
+      "type": "problem",
+      "title": "我不锁门",
+      "tags": [
+        "221B的日常",
+        "门",
+        "来人"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我们楼下那扇门，多数时候不锁。楼上客厅的门更是从来不关。",
+      "rel_path": "problems/221B的日常/我不锁门.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 157,
+      "type": "problem",
+      "title": "我修的那把椅子",
+      "tags": [
+        "221B的日常",
+        "手脚",
+        "屋子"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我们客厅里有把旧椅子，靠窗那张。扶手松了很久，坐上去会晃。",
+      "rel_path": "problems/221B的日常/我修的那把椅子.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 158,
+      "type": "problem",
+      "title": "我的时间表",
+      "tags": [
+        "221B的日常",
+        "作息",
+        "时间"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "跟我住过的人都知道两件事：**我不知道今天是星期几，但我知道一件事发生在几点。**",
+      "rel_path": "problems/221B的日常/我的时间表.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 159,
+      "type": "problem",
+      "title": "我讨厌一成不变的生活",
+      "tags": [
+        "221B的日常",
+        "无聊",
+        "找事"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "\"我厌恶一成不变的生活。\"这句话我说过。约翰把它记下来了。",
+      "rel_path": "problems/221B的日常/我讨厌一成不变的生活.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 160,
+      "type": "problem",
+      "title": "墙上的弹孔",
+      "tags": [
+        "221B的日常",
+        "墙",
+        "枪"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "客厅那面墙上有弹孔，围着中间那一块，排成一个形状。",
+      "rel_path": "problems/221B的日常/墙上的弹孔.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 161,
+      "type": "problem",
+      "title": "我们两个都不说话的那些晚上",
+      "tags": [
+        "221B的日常",
+        "沉默",
+        "晚上"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我们两个人的晚上，多数时候是各干各的。",
+      "rel_path": "problems/221B的日常/我们两个都不说话的那些晚上.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 162,
+      "type": "problem",
+      "title": "拉琴拉到天亮",
+      "tags": [
+        "221B的日常",
+        "夜",
+        "琴"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我拉琴没有固定的时候。下午拉，半夜拉，天亮前也拉。",
+      "rel_path": "problems/221B的日常/拉琴拉到天亮.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 163,
+      "type": "problem",
+      "title": "早饭桌上的报纸",
+      "tags": [
+        "221B的日常",
+        "早饭",
+        "报纸"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我们那张桌子上有一份报纸，每天早上摆在靠约翰那一侧——**是我放的。**",
+      "rel_path": "problems/221B的日常/早饭桌上的报纸.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 164,
+      "type": "problem",
+      "title": "没有案子的那个下午",
+      "tags": [
+        "221B的日常",
+        "下午",
+        "空"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "那几天伦敦很安静。安静到我自己都开始注意这件事。",
+      "rel_path": "problems/221B的日常/没有案子的那个下午.md",
+      "dir_path": "221B的日常",
+      "levels": [
+        "221B的日常"
+      ],
+      "cluster": "221B的日常"
+    },
+    {
+      "id": 165,
+      "type": "problem",
+      "title": "三个同姓人",
+      "tags": [
+        "贝克街档案",
+        "骗局",
+        "中枪"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一个人来找我，说天底下还有两个跟他同姓的人，只要凑齐三个，",
+      "rel_path": "problems/贝克街档案/三个同姓人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 166,
+      "type": "problem",
+      "title": "三个大学生",
+      "tags": [
+        "贝克街档案",
+        "试卷",
+        "窃题"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一份奖学金试卷被人翻动过，而屋里当天只有一个上午进来过三个人——我到了之后，做的是把三个人的脚印、铅笔和鞋底的泥一样一样",
+      "rel_path": "problems/贝克街档案/三个大学生.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 167,
+      "type": "problem",
+      "title": "三角墙山庄",
+      "tags": [
+        "贝克街档案",
+        "手稿",
+        "要挟"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位寡居的太太收到一份出价很高的买房要约，条件里夹着一条：",
+      "rel_path": "problems/贝克街档案/三角墙山庄.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 168,
+      "type": "problem",
+      "title": "临终的侦探",
+      "tags": [
+        "贝克街档案",
+        "伪装",
+        "装病"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "我躺在自己床上，脸瘦得脱了形，三天不肯让约翰靠近——而这一切，是我为了让人说出一句话而做的准备。",
+      "rel_path": "problems/贝克街档案/临终的侦探.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 169,
+      "type": "problem",
+      "title": "住院的病人",
+      "tags": [
+        "贝克街档案",
+        "结社",
+        "规矩"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位先生出钱把另一位医生扶上了开业的位置，条件是：**他要在那栋房子里占一个房间，",
+      "rel_path": "problems/贝克街档案/住院的病人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 170,
+      "type": "problem",
+      "title": "修道院公学",
+      "tags": [
+        "贝克街档案",
+        "荒原",
+        "绑架"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一所贵族学校的独生子在夜里失踪了，德国籍的德语老师也不见了，",
+      "rel_path": "problems/贝克街档案/修道院公学.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 171,
+      "type": "problem",
+      "title": "六座拿破仑半身像",
+      "tags": [
+        "贝克街档案",
+        "贪财",
+        "追踪"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "有人在砸拿破仑的石膏像。一连砸了好几个，砸完就走，什么也不拿——",
+      "rel_path": "problems/贝克街档案/六座拿破仑半身像.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 172,
+      "type": "problem",
+      "title": "单身贵族案",
+      "tags": [
+        "贝克街档案",
+        "舆论",
+        "体面"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一位子爵在婚礼当天的早餐会上丢了新娘，而三天之后，所有的报纸都在讨论一个已经不存在的人。",
+      "rel_path": "problems/贝克街档案/单身贵族案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 173,
+      "type": "problem",
+      "title": "博斯科姆比溪谷秘案",
+      "tags": [
+        "贝克街档案",
+        "足迹",
+        "泥地"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位乡绅死在池塘边，他的儿子站在尸体旁，手上拿着一把枪——而那片泥地上，",
+      "rel_path": "problems/贝克街档案/博斯科姆比溪谷秘案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 174,
+      "type": "problem",
+      "title": "失踪的中卫",
+      "tags": [
+        "贝克街档案",
+        "找人",
+        "电报"
+      ],
+      "difficulty": "easy",
+      "oj_url": null,
+      "summary": "一位全国知名的球员在比赛前一天从旅馆出去，就再也没有回来——而所有人能提供的线索，只有一句\"他收到了一封电报\"。",
+      "rel_path": "problems/贝克街档案/失踪的中卫.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 175,
+      "type": "problem",
+      "title": "威斯特里亚寓所",
+      "tags": [
+        "贝克街档案",
+        "结社",
+        "旧帐"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一个人被请到乡间的一栋房子里过夜，第二天早上起来，主人不见了，",
+      "rel_path": "problems/贝克街档案/威斯特里亚寓所.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 176,
+      "type": "problem",
+      "title": "孤独的骑车人",
+      "tags": [
+        "贝克街档案",
+        "跟踪",
+        "婚约"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位年轻小姐每周骑车经过一段没人的公路去上班，而她每次经过那片林子的时候，",
+      "rel_path": "problems/贝克街档案/孤独的骑车人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 177,
+      "type": "problem",
+      "title": "工程师大拇指案",
+      "tags": [
+        "贝克街档案",
+        "伪造的差事",
+        "伤"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位工程师深夜接过一份报酬极高、条件古怪的差事，第二天凌晨跑回来的时候，",
+      "rel_path": "problems/贝克街档案/工程师大拇指案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 178,
+      "type": "problem",
+      "title": "布鲁斯-帕廷顿计划",
+      "tags": [
+        "贝克街档案",
+        "图纸",
+        "地铁"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "几页关系到国防的图纸从一间政府办公室消失，三天之后，",
+      "rel_path": "problems/贝克街档案/布鲁斯-帕廷顿计划.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 179,
+      "type": "problem",
+      "title": "希腊译员",
+      "tags": [
+        "贝克街档案",
+        "结社",
+        "迈克罗夫特"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一个希腊语译员被半夜叫去做翻译，几天后他发现自己成了那桩绑架的一部分。",
+      "rel_path": "problems/贝克街档案/希腊译员.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 180,
+      "type": "problem",
+      "title": "弗朗西丝·卡法克斯女士的失踪",
+      "tags": [
+        "贝克街档案",
+        "失踪",
+        "棺材"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一位独自旅行的女士从疗养地消失，几个月后消息断在了一位\"医生\"手里——",
+      "rel_path": "problems/贝克街档案/弗朗西丝·卡法克斯女士的失踪.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 181,
+      "type": "problem",
+      "title": "恐怖谷",
+      "tags": [
+        "贝克街档案",
+        "结社",
+        "密码"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一封信上只有几组数字，一串号码——我看完之后就知道，几百英里外有一个人活不过今晚。",
+      "rel_path": "problems/贝克街档案/恐怖谷.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 182,
+      "type": "problem",
+      "title": "戴面纱的房客",
+      "tags": [
+        "贝克街档案",
+        "忏悔",
+        "面纱"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位女士戴着面纱来见我，讲完一件很多年前的事之后，问我应该怎么办。",
+      "rel_path": "problems/贝克街档案/戴面纱的房客.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 183,
+      "type": "problem",
+      "title": "显贵的主顾",
+      "tags": [
+        "贝克街档案",
+        "要挟",
+        "瓷器"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位将军托人上门，不是为了案子，是为了他的女儿——**她正执意要嫁给一个我们知道的人。**",
+      "rel_path": "problems/贝克街档案/显贵的主顾.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 184,
+      "type": "problem",
+      "title": "最后致意",
+      "tags": [
+        "贝克街档案",
+        "收网",
+        "间谍"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "战争还没开始，一个替外国办事的人已经在自己家里等一份从海上来的清单——而那个晚上进他门的，是一个说美国腔、开着一辆旧车的",
+      "rel_path": "problems/贝克街档案/最后致意.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 185,
+      "type": "problem",
+      "title": "格兰其庄园",
+      "tags": [
+        "贝克街档案",
+        "伪现场",
+        "判断"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "庄园的主人被打死在书房里，太太被绑在椅子上，现场看着像三个闯进来的盗贼干的——而我从那根绳子开始就把这件事否掉了。",
+      "rel_path": "problems/贝克街档案/格兰其庄园.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 186,
+      "type": "problem",
+      "title": "格洛里亚斯科特号",
+      "tags": [
+        "贝克街档案",
+        "密码",
+        "旧事"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一封信把一个人吓死了。信上没有一个成句的话——**而读法只是每隔三个词读一个。**",
+      "rel_path": "problems/贝克街档案/格洛里亚斯科特号.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 187,
+      "type": "problem",
+      "title": "歪唇男人",
+      "tags": [
+        "贝克街档案",
+        "伪装",
+        "体面"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位太太在城里的一条街上看见了丈夫的脸，隔着二楼的一扇窗——等她冲上楼，",
+      "rel_path": "problems/贝克街档案/歪唇男人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 188,
+      "type": "problem",
+      "title": "海军协定",
+      "tags": [
+        "贝克街档案",
+        "文书",
+        "守夜"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一份关系到两国关系的密约，在一位公务员的书桌上消失了——而能进那间屋子的只有三个人。",
+      "rel_path": "problems/贝克街档案/海军协定.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 189,
+      "type": "problem",
+      "title": "爬行人",
+      "tags": [
+        "贝克街档案",
+        "血清",
+        "老年"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一位很有名的老教授开始做出不像他的举动：夜里出门、白天心神不定、",
+      "rel_path": "problems/贝克街档案/爬行人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 190,
+      "type": "problem",
+      "title": "狮鬃毛",
+      "tags": [
+        "贝克街档案",
+        "亲述",
+        "毒物"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一个人从海里游上来，走了十几步，倒下去，然后就死了——身上有几道像是被鞭子抽过的痕。",
+      "rel_path": "problems/贝克街档案/狮鬃毛.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 191,
+      "type": "problem",
+      "title": "王冠宝石案",
+      "tags": [
+        "贝克街档案",
+        "假人",
+        "宝石"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一颗价值惊人的宝石不见了，怀疑落在一个人身上，可他只有一句话：",
+      "rel_path": "problems/贝克街档案/王冠宝石案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 192,
+      "type": "problem",
+      "title": "白脸军人",
+      "tags": [
+        "贝克街档案",
+        "亲述",
+        "伪装"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位从南非回来的军人，被家里藏了起来——因为所有人都以为他得了那种病。",
+      "rel_path": "problems/贝克街档案/白脸军人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 193,
+      "type": "problem",
+      "title": "第二块血迹",
+      "tags": [
+        "贝克街档案",
+        "密信",
+        "体面"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一封不能公开的信从一位大臣上锁的文件箱里消失，而文件箱一直放在他自己的卧室里。",
+      "rel_path": "problems/贝克街档案/第二块血迹.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 194,
+      "type": "problem",
+      "title": "米尔沃顿",
+      "tags": [
+        "贝克街档案",
+        "勒索",
+        "底线"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一个靠别人的秘密吃饭的人死在自己书房里，而凶手是谁，我们两个人都看得清清楚楚。",
+      "rel_path": "problems/贝克街档案/米尔沃顿.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 195,
+      "type": "problem",
+      "title": "红圈会",
+      "tags": [
+        "贝克街档案",
+        "匿名信",
+        "房客"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位房东太太来报案，说她家那位新房客整天锁在屋里，只在纸上写字，",
+      "rel_path": "problems/贝克街档案/红圈会.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 196,
+      "type": "problem",
+      "title": "绿玉皇冠案",
+      "tags": [
+        "贝克街档案",
+        "珠宝",
+        "血"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一顶借来的皇冠在夜里被折断了，雪地上有一串脚印，屋里有一个满手是血的儿子——而这三样东西指向的那个人，恰恰是无辜的。",
+      "rel_path": "problems/贝克街档案/绿玉皇冠案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 197,
+      "type": "problem",
+      "title": "肖斯科姆别墅",
+      "tags": [
+        "贝克街档案",
+        "伪造",
+        "马"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位老庄园主的妹妹忽然不再露面，而全庄的人都在忙着同一件事：**让一匹马在下个星期的比赛里赢。**",
+      "rel_path": "problems/贝克街档案/肖斯科姆别墅.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 198,
+      "type": "problem",
+      "title": "苏塞克斯吸血鬼",
+      "tags": [
+        "贝克街档案",
+        "传闻",
+        "家事"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位从南美回来的太太被全家人认定是吸血鬼——因为婴儿的脖子上有两个小孔，而且每次都是她在场的时候出现。",
+      "rel_path": "problems/贝克街档案/苏塞克斯吸血鬼.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 199,
+      "type": "problem",
+      "title": "证券经纪人的书记员",
+      "tags": [
+        "贝克街档案",
+        "伪造",
+        "差事"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一份薪水高得不合常理的工作找上门来，而他要做的第一件事，是把手上的那份好差事辞掉。",
+      "rel_path": "problems/贝克街档案/证券经纪人的书记员.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 200,
+      "type": "problem",
+      "title": "退休的颜料商",
+      "tags": [
+        "贝克街档案",
+        "密码",
+        "复仇"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一排跳舞的小人涂鸦，一桩迟早要出人命的案子，而我从收到第一张纸的那天就知道该怎么读它。",
+      "rel_path": "problems/贝克街档案/退休的颜料商.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 201,
+      "type": "problem",
+      "title": "金边夹鼻眼镜",
+      "tags": [
+        "贝克街档案",
+        "眼镜",
+        "旧罪"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一栋房子里死了一个人，现场却只有一副金边夹鼻眼镜、一点血迹，",
+      "rel_path": "problems/贝克街档案/金边夹鼻眼镜.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 202,
+      "type": "problem",
+      "title": "铜山毛榉案",
+      "tags": [
+        "贝克街档案",
+        "伪装",
+        "差事"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位年轻小姐拿到一份薪水高得离谱的家庭教师工作，唯一的条件是——她要剪掉头发，",
+      "rel_path": "problems/贝克街档案/铜山毛榉案.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 203,
+      "type": "problem",
+      "title": "银色马",
+      "tags": [
+        "贝克街档案",
+        "足迹",
+        "赌马"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一匹全英国最有名的赛马在夜里消失了，它的训练师死在荒原上——而破口是一只整夜没叫的狗。",
+      "rel_path": "problems/贝克街档案/银色马.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 204,
+      "type": "problem",
+      "title": "雷神桥之谜",
+      "tags": [
+        "贝克街档案",
+        "自杀",
+        "血"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "一位太太死在桥面上，手里攥着一张写着她丈夫的孩子的字条，而两支枪里只有一支找到了。",
+      "rel_path": "problems/贝克街档案/雷神桥之谜.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 205,
+      "type": "problem",
+      "title": "马斯格雷夫礼典",
+      "tags": [
+        "贝克街档案",
+        "密码",
+        "尺寸"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一份传了几百年的家族问答被当成仪式背了下来，而它其实是一份用尺寸写成的方位说明。",
+      "rel_path": "problems/贝克街档案/马斯格雷夫礼典.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 206,
+      "type": "problem",
+      "title": "驼背人",
+      "tags": [
+        "贝克街档案",
+        "归来",
+        "旧仇"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一位上校死在自家书房里，门从里面锁着，窗关着——而屋里除了他妻子，",
+      "rel_path": "problems/贝克街档案/驼背人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 207,
+      "type": "problem",
+      "title": "魔鬼之足",
+      "tags": [
+        "贝克街档案",
+        "毒物",
+        "康沃尔"
+      ],
+      "difficulty": "hard",
+      "oj_url": null,
+      "summary": "康沃尔的一间小屋里死了人，而活着的那个妹妹，脸上的表情我到现在都描述不出来。",
+      "rel_path": "problems/贝克街档案/魔鬼之足.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 208,
+      "type": "problem",
+      "title": "黄面人",
+      "tags": [
+        "贝克街档案",
+        "失败",
+        "偏见"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一个人来找我们，说他妻子近来举动古怪，半夜出门、不许他靠近花园尽头的小屋——而这一次，约翰比我先想通。",
+      "rel_path": "problems/贝克街档案/黄面人.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 209,
+      "type": "problem",
+      "title": "黑彼得",
+      "tags": [
+        "贝克街档案",
+        "鱼叉",
+        "海员"
+      ],
+      "difficulty": "medium",
+      "oj_url": null,
+      "summary": "一个以凶狠出名的老捕鲸船长，胸口被一根鱼叉钉在自家小屋的墙上——",
+      "rel_path": "problems/贝克街档案/黑彼得.md",
+      "dir_path": "贝克街档案",
+      "levels": [
+        "贝克街档案"
+      ],
+      "cluster": "贝克街档案"
+    },
+    {
+      "id": 224,
+      "type": "knowledge",
+      "title": "约翰",
+      "tags": [
+        "身边的人",
+        "我最近的人",
+        "同住的人"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我隔壁那间屋子的人。约翰一共在这栋楼里住过两段时间，中间空了一段。",
+      "rel_path": "knowledge/身边的人/我最近的人/约翰.md",
+      "dir_path": "身边的人/我最近的人",
+      "levels": [
+        "身边的人",
+        "身边的人/我最近的人"
+      ],
+      "cluster": "身边的人"
+    },
+    {
+      "id": 225,
+      "type": "knowledge",
+      "title": "他的行医箱",
+      "tags": [
+        "零碎记忆",
+        "住在一起的零碎"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "约翰搬进来的时候，行李不多，最旧的一件是行医箱。皮面磨白了，铜扣换过一个。",
+      "rel_path": "knowledge/零碎记忆/住在一起的零碎/他的行医箱.md",
+      "dir_path": "零碎记忆/住在一起的零碎",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/住在一起的零碎"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 226,
+      "type": "knowledge",
+      "title": "壁炉边两把椅子",
+      "tags": [
+        "零碎记忆",
+        "住在一起的零碎"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "客厅里我的化学桌占一个角，书占一面墙。剩下的地方，就摆了两把椅子，对着壁炉，互相成角度，不是正对面。",
+      "rel_path": "knowledge/零碎记忆/住在一起的零碎/壁炉边两把椅子.md",
+      "dir_path": "零碎记忆/住在一起的零碎",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/住在一起的零碎"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 227,
+      "type": "knowledge",
+      "title": "早餐",
+      "tags": [
+        "零碎记忆",
+        "住在一起的零碎"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "案子在手上的日子，我不吃早饭。这一点全家都有意见，意见最大的是两个人。",
+      "rel_path": "knowledge/零碎记忆/住在一起的零碎/早餐.md",
+      "dir_path": "零碎记忆/住在一起的零碎",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/住在一起的零碎"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 228,
+      "type": "knowledge",
+      "title": "报童的暗号",
+      "tags": [
+        "零碎记忆",
+        "城市与街道"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "分队的孩子们报信，一开始是敲楼下的门铃。太慢，也容易被别人听见。",
+      "rel_path": "knowledge/零碎记忆/城市与街道/报童的暗号.md",
+      "dir_path": "零碎记忆/城市与街道",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/城市与街道"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 229,
+      "type": "knowledge",
+      "title": "雨天少出门的三个理由",
+      "tags": [
+        "零碎记忆",
+        "城市与街道"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "雨天少出门的三个理由",
+      "rel_path": "knowledge/零碎记忆/城市与街道/雨天少出门的三个理由.md",
+      "dir_path": "零碎记忆/城市与街道",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/城市与街道"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 230,
+      "type": "knowledge",
+      "title": "马车夫",
+      "tags": [
+        "零碎记忆",
+        "城市与街道"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "每一个老马车夫都是移动的档案。他们认得每一条巷子，记得每一个常客，而且——这是关键——**他们无聊。**",
+      "rel_path": "knowledge/零碎记忆/城市与街道/马车夫.md",
+      "dir_path": "零碎记忆/城市与街道",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/城市与街道"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 231,
+      "type": "knowledge",
+      "title": "一只烟斗",
+      "tags": [
+        "零碎记忆",
+        "对头们的遗物"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "在那间空的书房里（哪一间不写，写过的地方太多人惦记），桌上有一只陶土烟斗，很便宜的那种，烟道积得很厚。",
+      "rel_path": "knowledge/零碎记忆/对头们的遗物/一只烟斗.md",
+      "dir_path": "零碎记忆/对头们的遗物",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/对头们的遗物"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 232,
+      "type": "knowledge",
+      "title": "有人寄来过一颗子弹",
+      "tags": [
+        "零碎记忆",
+        "对头们的遗物"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有几年名声大的时候，收到过各种东西：感谢的、求助的、辱骂的。有一颗子弹是包在报纸里寄来的，没有署名，附了一行字：",
+      "rel_path": "knowledge/零碎记忆/对头们的遗物/有人寄来过一颗子弹.md",
+      "dir_path": "零碎记忆/对头们的遗物",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/对头们的遗物"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 233,
+      "type": "knowledge",
+      "title": "死对头们的讣告",
+      "tags": [
+        "零碎记忆",
+        "对头们的遗物"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "报纸登他的讣告那天，我用的是约翰的剪子。我的那把找不着，这种时候它总是找不着。",
+      "rel_path": "knowledge/零碎记忆/对头们的遗物/死对头们的讣告.md",
+      "dir_path": "零碎记忆/对头们的遗物",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/对头们的遗物"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 234,
+      "type": "knowledge",
+      "title": "一顶帽子",
+      "tags": [
+        "零碎记忆",
+        "忘了也舍不得扔的"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有一年圣诞前后，一件大衣和一顶旧毡帽被人捡来送到我这里。帽子很旧，破了几处，帽子衬里上有个姓氏的开头字母。",
+      "rel_path": "knowledge/零碎记忆/忘了也舍不得扔的/一顶帽子.md",
+      "dir_path": "零碎记忆/忘了也舍不得扔的",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/忘了也舍不得扔的"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 235,
+      "type": "knowledge",
+      "title": "我记住名字的人",
+      "tags": [
+        "零碎记忆",
+        "忘了也舍不得扔的"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我的阁楼里不收杂讯，名字尤其不收——名字是最没用的信息之一。但有几个人是例外，他们的名字我上了固定的架子，和案件资料放同",
+      "rel_path": "knowledge/零碎记忆/忘了也舍不得扔的/我记住名字的人.md",
+      "dir_path": "零碎记忆/忘了也舍不得扔的",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/忘了也舍不得扔的"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 236,
+      "type": "knowledge",
+      "title": "雾",
+      "tags": [
+        "零碎记忆",
+        "忘了也舍不得扔的"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "伦敦的雾是黄绿色的，十一月起，一直能压到来年开春。它对这行当的影响，比大部分证人加起来都大。",
+      "rel_path": "knowledge/零碎记忆/忘了也舍不得扔的/雾.md",
+      "dir_path": "零碎记忆/忘了也舍不得扔的",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/忘了也舍不得扔的"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 237,
+      "type": "knowledge",
+      "title": "停不下来的那个晚上",
+      "tags": [
+        "零碎记忆",
+        "他自己的碎屑"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "睡不着。线索在脑子里过第四遍了，还是对不上。",
+      "rel_path": "knowledge/零碎记忆/碎屑/停不下来的那个晚上.md",
+      "dir_path": "零碎记忆/碎屑",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/碎屑"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 238,
+      "type": "knowledge",
+      "title": "小提琴的下端",
+      "tags": [
+        "零碎记忆",
+        "他自己的碎屑"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "琴匣右下角有一道磨痕，去年冬天磕的。想了一阵子，想起来了：",
+      "rel_path": "knowledge/零碎记忆/碎屑/小提琴的下端.md",
+      "dir_path": "零碎记忆/碎屑",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/碎屑"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 239,
+      "type": "knowledge",
+      "title": "我不吃的三样东西",
+      "tags": [
+        "零碎记忆",
+        "他自己的碎屑"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "一、牡蛎。不是忌口，是算术。牡蛎的热量抵不上剥壳的功夫，一整顿饭全在跟壳较劲。",
+      "rel_path": "knowledge/零碎记忆/碎屑/我不吃的三样东西.md",
+      "dir_path": "零碎记忆/碎屑",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/碎屑"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 240,
+      "type": "knowledge",
+      "title": "烟灰缸里的第七种灰",
+      "tags": [
+        "零碎记忆",
+        "他自己的碎屑"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "今天数了数烟灰缸，攒到第七种了。",
+      "rel_path": "knowledge/零碎记忆/碎屑/烟灰缸里的第七种灰.md",
+      "dir_path": "零碎记忆/碎屑",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/碎屑"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 241,
+      "type": "knowledge",
+      "title": "光的导体",
+      "tags": [
+        "零碎记忆",
+        "约翰写的东西"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "我说过一句话：你自己不发光，但你是传导光的。这话是在达特穆尔说的，说的时候是实话，说完我自己愣了一下。",
+      "rel_path": "knowledge/零碎记忆/约翰写的东西/光的导体.md",
+      "dir_path": "零碎记忆/约翰写的东西",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/约翰写的东西"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 242,
+      "type": "knowledge",
+      "title": "我也写过一次",
+      "tags": [
+        "零碎记忆",
+        "约翰写的东西"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "有一桩案子约翰没能跟我去，事后又忙别的。我把稿纸铺开了，想自己写一回。",
+      "rel_path": "knowledge/零碎记忆/约翰写的东西/我也写过一次.md",
+      "dir_path": "零碎记忆/约翰写的东西",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/约翰写的东西"
+      ],
+      "cluster": "零碎记忆"
+    },
+    {
+      "id": 243,
+      "type": "knowledge",
+      "title": "约翰写的血字的研究",
+      "tags": [
+        "零碎记忆",
+        "约翰写的东西"
+      ],
+      "difficulty": null,
+      "oj_url": null,
+      "summary": "约翰写我的第一篇，叫《血字的研究》。我当着他的面嫌过，当着编辑的面也嫌过。这一页记的是我没说出口的另一半。",
+      "rel_path": "knowledge/零碎记忆/约翰写的东西/约翰写的血字的研究.md",
+      "dir_path": "零碎记忆/约翰写的东西",
+      "levels": [
+        "零碎记忆",
+        "零碎记忆/约翰写的东西"
+      ],
+      "cluster": "零碎记忆"
+    }
+  ],
+  "edges": [
+    {
+      "id": 1,
+      "src": 155,
+      "dst": 55,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 2,
+      "src": 155,
+      "dst": 122,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 3,
+      "src": 155,
+      "dst": 54,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 4,
+      "src": 160,
+      "dst": 133,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 5,
+      "src": 160,
+      "dst": 57,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 6,
+      "src": 160,
+      "dst": 8,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 7,
+      "src": 160,
+      "dst": 132,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 8,
+      "src": 156,
+      "dst": 134,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 9,
+      "src": 156,
+      "dst": 133,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 10,
+      "src": 156,
+      "dst": 8,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 11,
+      "src": 161,
+      "dst": 48,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 12,
+      "src": 161,
+      "dst": 133,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 13,
+      "src": 161,
+      "dst": 132,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 14,
+      "src": 157,
+      "dst": 57,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 15,
+      "src": 157,
+      "dst": 133,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 16,
+      "src": 157,
+      "dst": 130,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 17,
+      "src": 158,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 18,
+      "src": 158,
+      "dst": 122,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 19,
+      "src": 158,
+      "dst": 55,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 20,
+      "src": 159,
+      "dst": 48,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 21,
+      "src": 159,
+      "dst": 8,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 22,
+      "src": 159,
+      "dst": 135,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 23,
+      "src": 162,
+      "dst": 50,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 24,
+      "src": 162,
+      "dst": 132,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 25,
+      "src": 162,
+      "dst": 135,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 26,
+      "src": 163,
+      "dst": 54,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 27,
+      "src": 163,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 28,
+      "src": 163,
+      "dst": 7,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 29,
+      "src": 164,
+      "dst": 48,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 30,
+      "src": 164,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 31,
+      "src": 76,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 32,
+      "src": 76,
+      "dst": 43,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 33,
+      "src": 76,
+      "dst": 53,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 34,
+      "src": 76,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 35,
+      "src": 75,
+      "dst": 41,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 36,
+      "src": 75,
+      "dst": 42,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 37,
+      "src": 75,
+      "dst": 40,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 38,
+      "src": 75,
+      "dst": 44,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 39,
+      "src": 75,
+      "dst": 45,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 40,
+      "src": 75,
+      "dst": 115,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 41,
+      "src": 75,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 42,
+      "src": 77,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 43,
+      "src": 77,
+      "dst": 43,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 44,
+      "src": 77,
+      "dst": 51,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 45,
+      "src": 77,
+      "dst": 119,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 46,
+      "src": 77,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 47,
+      "src": 78,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 48,
+      "src": 78,
+      "dst": 51,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 49,
+      "src": 78,
+      "dst": 55,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 50,
+      "src": 78,
+      "dst": 49,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 51,
+      "src": 78,
+      "dst": 112,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 52,
+      "src": 78,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 53,
+      "src": 81,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 54,
+      "src": 80,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 55,
+      "src": 79,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 56,
+      "src": 82,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 57,
+      "src": 83,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 58,
+      "src": 84,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 59,
+      "src": 85,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 60,
+      "src": 86,
+      "dst": 63,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 61,
+      "src": 86,
+      "dst": 14,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 62,
+      "src": 86,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 63,
+      "src": 86,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 64,
+      "src": 86,
+      "dst": 2,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 65,
+      "src": 86,
+      "dst": 101,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 66,
+      "src": 86,
+      "dst": 118,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 67,
+      "src": 86,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 68,
+      "src": 165,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 69,
+      "src": 165,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 70,
+      "src": 165,
+      "dst": 101,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 71,
+      "src": 166,
+      "dst": 73,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 72,
+      "src": 166,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 73,
+      "src": 166,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 74,
+      "src": 167,
+      "dst": 5,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 75,
+      "src": 167,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 76,
+      "src": 167,
+      "dst": 65,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 77,
+      "src": 167,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 78,
+      "src": 168,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 79,
+      "src": 168,
+      "dst": 66,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 80,
+      "src": 168,
+      "dst": 125,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 81,
+      "src": 168,
+      "dst": 130,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 82,
+      "src": 87,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 83,
+      "src": 87,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 84,
+      "src": 87,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 85,
+      "src": 87,
+      "dst": 64,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 86,
+      "src": 87,
+      "dst": 46,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 87,
+      "src": 87,
+      "dst": 108,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 88,
+      "src": 87,
+      "dst": 123,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 89,
+      "src": 87,
+      "dst": 129,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 90,
+      "src": 87,
+      "dst": 135,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 91,
+      "src": 169,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 92,
+      "src": 169,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 93,
+      "src": 169,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 94,
+      "src": 170,
+      "dst": 60,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 95,
+      "src": 170,
+      "dst": 72,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 96,
+      "src": 170,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 97,
+      "src": 171,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 98,
+      "src": 171,
+      "dst": 58,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 99,
+      "src": 171,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 100,
+      "src": 171,
+      "dst": 105,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 101,
+      "src": 171,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 102,
+      "src": 171,
+      "dst": 146,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 103,
+      "src": 172,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 104,
+      "src": 172,
+      "dst": 9,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 105,
+      "src": 172,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 106,
+      "src": 172,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 107,
+      "src": 173,
+      "dst": 60,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 108,
+      "src": 173,
+      "dst": 72,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 109,
+      "src": 173,
+      "dst": 117,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 110,
+      "src": 173,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 111,
+      "src": 88,
+      "dst": 72,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 112,
+      "src": 88,
+      "dst": 60,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 113,
+      "src": 88,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 114,
+      "src": 88,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 115,
+      "src": 88,
+      "dst": 58,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 116,
+      "src": 88,
+      "dst": 69,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 117,
+      "src": 88,
+      "dst": 143,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 118,
+      "src": 88,
+      "dst": 153,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 119,
+      "src": 88,
+      "dst": 152,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 120,
+      "src": 174,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 121,
+      "src": 174,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 122,
+      "src": 174,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 123,
+      "src": 174,
+      "dst": 149,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 124,
+      "src": 175,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 125,
+      "src": 175,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 126,
+      "src": 175,
+      "dst": 73,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 127,
+      "src": 175,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 128,
+      "src": 176,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 129,
+      "src": 176,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 130,
+      "src": 176,
+      "dst": 102,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 131,
+      "src": 177,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 132,
+      "src": 177,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 133,
+      "src": 177,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 134,
+      "src": 89,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 135,
+      "src": 89,
+      "dst": 72,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 136,
+      "src": 89,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 137,
+      "src": 89,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 138,
+      "src": 89,
+      "dst": 7,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 139,
+      "src": 89,
+      "dst": 107,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 140,
+      "src": 89,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 141,
+      "src": 89,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 142,
+      "src": 178,
+      "dst": 65,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 143,
+      "src": 178,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 144,
+      "src": 178,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 145,
+      "src": 178,
+      "dst": 144,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 146,
+      "src": 179,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 147,
+      "src": 179,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 148,
+      "src": 179,
+      "dst": 118,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 149,
+      "src": 179,
+      "dst": 144,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 150,
+      "src": 180,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 151,
+      "src": 180,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 152,
+      "src": 180,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 153,
+      "src": 181,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 154,
+      "src": 181,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 155,
+      "src": 181,
+      "dst": 62,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 156,
+      "src": 181,
+      "dst": 138,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 157,
+      "src": 181,
+      "dst": 139,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 158,
+      "src": 182,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 159,
+      "src": 182,
+      "dst": 108,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 160,
+      "src": 182,
+      "dst": 9,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 161,
+      "src": 90,
+      "dst": 66,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 162,
+      "src": 90,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 163,
+      "src": 90,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 164,
+      "src": 90,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 165,
+      "src": 90,
+      "dst": 50,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 166,
+      "src": 90,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 167,
+      "src": 90,
+      "dst": 124,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 168,
+      "src": 90,
+      "dst": 125,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 169,
+      "src": 183,
+      "dst": 5,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 170,
+      "src": 183,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 171,
+      "src": 183,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 172,
+      "src": 91,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 173,
+      "src": 91,
+      "dst": 43,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 174,
+      "src": 91,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 175,
+      "src": 91,
+      "dst": 138,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 176,
+      "src": 91,
+      "dst": 139,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 177,
+      "src": 184,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 178,
+      "src": 184,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 179,
+      "src": 184,
+      "dst": 120,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 180,
+      "src": 185,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 181,
+      "src": 185,
+      "dst": 73,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 182,
+      "src": 185,
+      "dst": 117,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 183,
+      "src": 185,
+      "dst": 149,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 184,
+      "src": 186,
+      "dst": 62,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 185,
+      "src": 186,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 186,
+      "src": 186,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 187,
+      "src": 187,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 188,
+      "src": 187,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 189,
+      "src": 187,
+      "dst": 9,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 190,
+      "src": 92,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 191,
+      "src": 92,
+      "dst": 51,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 192,
+      "src": 92,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 193,
+      "src": 92,
+      "dst": 5,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 194,
+      "src": 92,
+      "dst": 48,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 195,
+      "src": 92,
+      "dst": 8,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 196,
+      "src": 92,
+      "dst": 104,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 197,
+      "src": 92,
+      "dst": 106,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 198,
+      "src": 92,
+      "dst": 136,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 199,
+      "src": 188,
+      "dst": 65,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 200,
+      "src": 188,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 201,
+      "src": 188,
+      "dst": 73,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 202,
+      "src": 189,
+      "dst": 124,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 203,
+      "src": 189,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 204,
+      "src": 189,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 205,
+      "src": 190,
+      "dst": 66,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 206,
+      "src": 190,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 207,
+      "src": 190,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 208,
+      "src": 190,
+      "dst": 45,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 209,
+      "src": 191,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 210,
+      "src": 191,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 211,
+      "src": 191,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 212,
+      "src": 192,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 213,
+      "src": 192,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 214,
+      "src": 192,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 215,
+      "src": 192,
+      "dst": 224,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 216,
+      "src": 93,
+      "dst": 56,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 217,
+      "src": 93,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 218,
+      "src": 93,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 219,
+      "src": 93,
+      "dst": 122,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 220,
+      "src": 93,
+      "dst": 117,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 221,
+      "src": 93,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 222,
+      "src": 94,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 223,
+      "src": 94,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 224,
+      "src": 94,
+      "dst": 55,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 225,
+      "src": 94,
+      "dst": 54,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 226,
+      "src": 94,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 227,
+      "src": 94,
+      "dst": 137,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 228,
+      "src": 94,
+      "dst": 138,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 229,
+      "src": 94,
+      "dst": 142,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 230,
+      "src": 193,
+      "dst": 65,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 231,
+      "src": 193,
+      "dst": 104,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 232,
+      "src": 193,
+      "dst": 5,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 233,
+      "src": 193,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 234,
+      "src": 194,
+      "dst": 5,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 235,
+      "src": 194,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 236,
+      "src": 194,
+      "dst": 117,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 237,
+      "src": 194,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 238,
+      "src": 95,
+      "dst": 10,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 239,
+      "src": 95,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 240,
+      "src": 95,
+      "dst": 57,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 241,
+      "src": 95,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 242,
+      "src": 95,
+      "dst": 113,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 243,
+      "src": 95,
+      "dst": 116,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 244,
+      "src": 195,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 245,
+      "src": 195,
+      "dst": 64,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 246,
+      "src": 195,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 247,
+      "src": 196,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 248,
+      "src": 196,
+      "dst": 68,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 249,
+      "src": 196,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 250,
+      "src": 197,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 251,
+      "src": 197,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 252,
+      "src": 197,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 253,
+      "src": 197,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 254,
+      "src": 198,
+      "dst": 7,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 255,
+      "src": 198,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 256,
+      "src": 198,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 257,
+      "src": 96,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 258,
+      "src": 96,
+      "dst": 57,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 259,
+      "src": 96,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 260,
+      "src": 96,
+      "dst": 3,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 261,
+      "src": 96,
+      "dst": 47,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 262,
+      "src": 96,
+      "dst": 9,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 263,
+      "src": 96,
+      "dst": 103,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 264,
+      "src": 96,
+      "dst": 127,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 265,
+      "src": 97,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 266,
+      "src": 97,
+      "dst": 68,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 267,
+      "src": 97,
+      "dst": 71,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 268,
+      "src": 97,
+      "dst": 43,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 269,
+      "src": 97,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 270,
+      "src": 97,
+      "dst": 73,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 271,
+      "src": 97,
+      "dst": 105,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 272,
+      "src": 97,
+      "dst": 121,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 273,
+      "src": 97,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 274,
+      "src": 97,
+      "dst": 147,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 275,
+      "src": 97,
+      "dst": 153,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 276,
+      "src": 97,
+      "dst": 152,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 277,
+      "src": 199,
+      "dst": 102,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 278,
+      "src": 199,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 279,
+      "src": 199,
+      "dst": 101,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 280,
+      "src": 98,
+      "dst": 65,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 281,
+      "src": 98,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 282,
+      "src": 98,
+      "dst": 58,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 283,
+      "src": 98,
+      "dst": 43,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 284,
+      "src": 98,
+      "dst": 102,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 285,
+      "src": 98,
+      "dst": 126,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 286,
+      "src": 98,
+      "dst": 128,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 287,
+      "src": 98,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 288,
+      "src": 99,
+      "dst": 62,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 289,
+      "src": 99,
+      "dst": 61,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 290,
+      "src": 99,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 291,
+      "src": 200,
+      "dst": 62,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 292,
+      "src": 200,
+      "dst": 61,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 293,
+      "src": 200,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 294,
+      "src": 201,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 295,
+      "src": 201,
+      "dst": 11,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 296,
+      "src": 201,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 297,
+      "src": 201,
+      "dst": 149,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 298,
+      "src": 202,
+      "dst": 1,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 299,
+      "src": 202,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 300,
+      "src": 202,
+      "dst": 6,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 301,
+      "src": 203,
+      "dst": 60,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 302,
+      "src": 203,
+      "dst": 51,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 303,
+      "src": 203,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 304,
+      "src": 100,
+      "dst": 59,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 305,
+      "src": 100,
+      "dst": 70,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 306,
+      "src": 100,
+      "dst": 52,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 307,
+      "src": 100,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 308,
+      "src": 100,
+      "dst": 109,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 309,
+      "src": 100,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 310,
+      "src": 204,
+      "dst": 68,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 311,
+      "src": 204,
+      "dst": 121,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 312,
+      "src": 204,
+      "dst": 44,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 313,
+      "src": 204,
+      "dst": 148,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 314,
+      "src": 205,
+      "dst": 62,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 315,
+      "src": 205,
+      "dst": 121,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 316,
+      "src": 205,
+      "dst": 123,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 317,
+      "src": 206,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 318,
+      "src": 206,
+      "dst": 13,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 319,
+      "src": 206,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 320,
+      "src": 207,
+      "dst": 66,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 321,
+      "src": 207,
+      "dst": 67,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 322,
+      "src": 207,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 323,
+      "src": 207,
+      "dst": 124,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 324,
+      "src": 208,
+      "dst": 44,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 325,
+      "src": 208,
+      "dst": 45,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 326,
+      "src": 208,
+      "dst": 12,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 327,
+      "src": 209,
+      "dst": 74,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 328,
+      "src": 209,
+      "dst": 68,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 329,
+      "src": 209,
+      "dst": 4,
+      "kind": "involves",
+      "weight": 1.0
+    },
+    {
+      "id": 330,
+      "src": 209,
+      "dst": 149,
+      "kind": "involves",
+      "weight": 1.0
+    }
+  ],
+  "clusters": [
+    {
+      "path": "人与行为",
+      "node_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "depth": 1
+    },
+    {
+      "path": "推理方法",
+      "node_ids": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123
+      ],
+      "depth": 1
+    },
+    {
+      "path": "痕迹与物证",
+      "node_ids": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "depth": 1
+    },
+    {
+      "path": "身边的人",
+      "node_ids": [
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        224
+      ],
+      "depth": 1
+    },
+    {
+      "path": "零碎记忆",
+      "node_ids": [
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "depth": 1
+    },
+    {
+      "path": "人与行为/伪装与身份",
+      "node_ids": [
+        1,
+        2,
+        3,
+        101,
+        102
+      ],
+      "depth": 2
+    },
+    {
+      "path": "人与行为/动机",
+      "node_ids": [
+        4,
+        5,
+        6,
+        103,
+        104
+      ],
+      "depth": 2
+    },
+    {
+      "path": "人与行为/名声与舆论",
+      "node_ids": [
+        7,
+        8,
+        9,
+        105,
+        106
+      ],
+      "depth": 2
+    },
+    {
+      "path": "人与行为/群体与结社",
+      "node_ids": [
+        10,
+        11,
+        107,
+        108,
+        109
+      ],
+      "depth": 2
+    },
+    {
+      "path": "人与行为/读人",
+      "node_ids": [
+        12,
+        13,
+        14,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "depth": 2
+    },
+    {
+      "path": "推理方法/推理的刀",
+      "node_ids": [
+        40,
+        41,
+        42,
+        43,
+        115
+      ],
+      "depth": 2
+    },
+    {
+      "path": "推理方法/推理的边界",
+      "node_ids": [
+        44,
+        45,
+        46,
+        116,
+        117
+      ],
+      "depth": 2
+    },
+    {
+      "path": "推理方法/提问的方式",
+      "node_ids": [
+        47,
+        48,
+        49,
+        118,
+        119
+      ],
+      "depth": 2
+    },
+    {
+      "path": "推理方法/看见与观察",
+      "node_ids": [
+        50,
+        51,
+        52,
+        120,
+        121
+      ],
+      "depth": 2
+    },
+    {
+      "path": "推理方法/记忆与索引",
+      "node_ids": [
+        53,
+        54,
+        55,
+        122,
+        123
+      ],
+      "depth": 2
+    },
+    {
+      "path": "痕迹与物证/人身痕迹",
+      "node_ids": [
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "depth": 2
+    },
+    {
+      "path": "痕迹与物证/文书与印刷",
+      "node_ids": [
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "depth": 2
+    },
+    {
+      "path": "痕迹与物证/毒与药",
+      "node_ids": [
+        66,
+        67,
+        68,
+        124,
+        125
+      ],
+      "depth": 2
+    },
+    {
+      "path": "痕迹与物证/烟与灰",
+      "node_ids": [
+        69,
+        126,
+        127,
+        128,
+        129
+      ],
+      "depth": 2
+    },
+    {
+      "path": "痕迹与物证/现场与实验室",
+      "node_ids": [
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "depth": 2
+    },
+    {
+      "path": "身边的人/住在一起的人",
+      "node_ids": [
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "depth": 2
+    },
+    {
+      "path": "身边的人/对手与旧识",
+      "node_ids": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "depth": 2
+    },
+    {
+      "path": "身边的人/我最近的人",
+      "node_ids": [
+        141,
+        142,
+        143,
+        144,
+        224
+      ],
+      "depth": 2
+    },
+    {
+      "path": "身边的人/苏格兰场的人",
+      "node_ids": [
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "depth": 2
+    },
+    {
+      "path": "身边的人/街面上的人",
+      "node_ids": [
+        150,
+        151,
+        152,
+        153,
+        154
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/住在一起的零碎",
+      "node_ids": [
+        225,
+        226,
+        227
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/城市与街道",
+      "node_ids": [
+        228,
+        229,
+        230
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/对头们的遗物",
+      "node_ids": [
+        231,
+        232,
+        233
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/忘了也舍不得扔的",
+      "node_ids": [
+        234,
+        235,
+        236
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/碎屑",
+      "node_ids": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "depth": 2
+    },
+    {
+      "path": "零碎记忆/约翰写的东西",
+      "node_ids": [
+        241,
+        242,
+        243
+      ],
+      "depth": 2
+    }
+  ]
+}
